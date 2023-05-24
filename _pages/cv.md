@@ -9,8 +9,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S. Geography and Environmental Planning, Towson University, 2021
