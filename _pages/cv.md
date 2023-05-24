@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Geography and Environmental Planning, Towson University, 2021
+* B.S. Metropolitan Studies, Towson University, 2021
+* Minor, Geographic Information Systems, Towson University, 2021
+* Current Master's Student, Geography and Environmental Systems, University of Maryland Baltimore County, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2023 to Present: Environmental Planner
+  * Blackwater Environmental
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2023: ThinkBig Networks ISP - GIS Systems Engineer                                                                                                         * Blackwater Environmental 
+  * Engineered fiber optic network in Charles, Queen Anne's, Harford and Kent counties
+  * Generated As-Built and construction mapbooks of fiber builds for field use 
+  * Calculated cost of materials, engineering and construction for fiber builds 
+  * Maintained database for updates to construction, splicing, customer  & equipment information
+  * Managed projects leveraging advanced geoprocessing to meet needs of executive team 
+  * Incorporated publicly available MD cadastral data into project planning
+  * Established internal metadata standards for GIS network points and developed best practices for other processes
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* QGIS, ArcGIS, Python, R
+* Web Development
+  * HTML
+  * Javascript
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of Board for UMBC's Public Service Scholars
+* Chair of Student Selection Committee of Sondheim Public Service Scholars 2021-2022,
+* Governor’s Citation - Sondheim Public Service Scholar: Summer 2019,
+
