@@ -1,6 +1,6 @@
 ---
 title: "Final Project Map 1 - GES687 Advanced Applications GIS"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Balt City Pop Change.png'>"
+excerpt: "Population Change in Baltimore City<br/><img src='/images/Balt City Pop Change.png'>"
 collection: portfolio
 ---
 
