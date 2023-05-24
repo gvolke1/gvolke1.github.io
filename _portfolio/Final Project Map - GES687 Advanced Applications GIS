@@ -1,7 +1,11 @@
 ---
-title: "Final Project Maps - GES687 Advanced Applications GIS"
-excerpt: "Population Change in Baltimore City<br/><img src='/images/Balt City Pop Change.png'>"
+title: "Final Project Map - GES687 Advanced Applications GIS"
+excerpt: "Census Tract Population Change and Bus Stop Spatial Analysis in Baltimore City<br/>
 collection: portfoli0
 ---
 
-This map represents the population change for Baltimore County from 2010-2021. It was part of a larger project of spatial analysis of bus stops in Baltimore City and population changes by Census Tract.
+My project for my class was an analysis on population of census tracts in Baltimore City from 2010-2021 and a spatial analysis of bus stops in the city. 
+
+<img src='/images/Balt City Pop Change.png'>"
+
+<img src='/images/Balt City Bus Stops.png'>"
