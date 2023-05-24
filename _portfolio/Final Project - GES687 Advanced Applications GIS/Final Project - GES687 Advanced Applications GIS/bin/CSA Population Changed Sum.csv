@@ -1,0 +1,57 @@
+Neigh,count,unique,min,max,range,sum,mean,median,stddev,minority,majority,q1,q3,iqr,CSA2020
+"Allendale, Carroll-South Hilton, Gwynns Falls, Irvington, Saint Josephs, Uplands, Yale Heights, Lower Edmondson Village","13","13",-1433,432,1865,-5222,-401.692307692308,-350,556.665675748212,-1433,-1433,-630,-99,531,Allendale/Irvington/S. Hilton
+"Beechfield, Hunting Ridge, Ten Hills, Tremont, West Hills, Westgate","9","9",-1289,432,1721,-1944,-216,-204,521.624172923167,-1289,-1289,-507,140,647,Beechfield/Ten Hills/West Hills
+"Belair-Edison, Clifton Park, Four By Four, Mayfield, Herring Run Park","12","12",-887,832,1719,-2087,-173.916666666667,-239.5,471.488681082472,-887,-887,-543,110,653,Belair-Edison
+"Brooklyn, Curtis Bay, Fairfield Area, Hawkins Point, Curtis Bay Industrial Area","4","4",-1224,433,1657,-1759,-439.75,-484,672.22480428797,-1224,-1224,-1085,205.5,1290.5,Brooklyn/Curtis Bay/Hawkins Point
+"Canton, Patterson Park","12","12",-542,1047,1589,147,12.25,-67.5,429.902338715822,-542,-542,-239,168.5,407.5,Canton
+"Cedonia, Frankford, Cedmont, Parkside","15","15",-620,832,1452,329,21.9333333333333,3,448.371790172199,-620,-620,-332.5,365,697.5,Cedonia/Frankford
+"Cherry Hill, Middle Branch/Reedbird Parks","5","5",-555,383,938,-511,-102.2,-150,308.840023313041,-555,-555,-225,36,261,Cherry Hill
+"Cameron Village, Chinquapin Park, Lake Walker, Mid-Govans, Belvedere, Evesham Park","6","6",-318,1048,1366,1808,301.333333333333,184,481.089966176344,-318,-318,-68,778,846,Chinquapin Park/Belvedere
+"Armistead Gardens, Claremont-Freedom (now Orchard Ridge), Orchard Ridge","10","10",-887,668,1555,-1360,-136,-302,467.237626909477,-887,-887,-408,281,689,Orchard Ridge/Armistead
+"Berea, Biddle Street, Broadway East, Darley Park, South Clifton Park","15","15",-994,449,1443,-5633,-375.533333333333,-385,373.86947217207,-994,-994,-557.5,-168.5,389,Clifton-Berea
+"Cheswolde, Cross Country","7","7",-680,263,943,-1005,-143.571428571429,-222,338.694492402332,-680,-680,-362.5,179.5,542,Cross-Country/Cheswolde
+"Dickeyville, Franklintown, Purnell, Wakefield","7","7",-507,1358,1865,1310,187.142857142857,38,640.503915137232,-507,-507,-337.5,548,885.5,Dickeyville/Franklintown
+"Ashburton, Callaway-Garrison, Central Forest Park, Dolfield, Dorchester, East Arlington","11","11",-471,822,1293,1724,156.727272727273,181,415.193731540764,-471,-471,-197,473,670,Dorchester/Ashburton
+"Downtown, Seton Hill, University of Maryland","13","13",-699,1353,2052,1649,126.846153846154,30,556.258911237709,-699,-699,-183,289,472,Downtown/Seton Hill
+"Edmondson Village, Rognel Heights, Gwynns Falls/Leakin Park, Edgewood","9","9",-2044,274,2318,-3869,-429.888888888889,-350,621.847327537421,-2044,-2044,-480,-125,355,Edmondson Village
+"Butcher's Hill, Fells Point, Upper Fells Point","8","8",-497,586,1083,403,50.375,41,309.260382808726,-497,-497,-147,263,410,Fells Point
+"Concerned Citizens Of Forest Park, Fairmont, Forest Park, Garwyn Oaks, Mount Holly, West Forest Park, Windsor Hills","11","11",-2044,1358,3402,936,85.0909090909091,274,841.814431564393,-2044,-2044,-216.5,473,689.5,Forest Park/Walbrook
+"Fallstaff, Glen, Reisterstown Station, Woodmere","13","13",-1217,691,1908,-3836,-295.076923076923,-222,594.058849912838,-1217,-1217,-680,99,779,Glen-Fallstaff
+"Abell, Barclay, Charles Village, Harwood, Oakenshawe, Johns Hopkins Homewood, Old Goucher","13","13",-1159,664,1823,-2802,-215.538461538462,-217,468.699939338693,-1159,-1159,-463,186,649,Greater Charles Village/Barclay
+"Kenilworth Park, Pen Lucy, Richnor Springs, Wilson Park, Winston-Govans, Woodbourne-McCabe, Wrenlane","9","9",-652,778,1430,1488,165.333333333333,160,433.488433781367,-652,-652,-68,517,585,Greater Govans
+"Burleith-Leighton, Hanlon-Longwood, Liberty Square, Mondawmin, Panway/Braddish Avenue, Walbrook","12","12",-1220,455,1675,-2653,-221.083333333333,-242.5,425.269808147983,-1220,-1220,-420.5,52,472.5,Greater Mondawmin
+"Cross Keys, Evergreen, Keswick, North Roland Park/Poplar Hill, Roland Park, Wyndhurst","9","9",-466,944,1410,965,107.222222222222,99,429.705009351448,-466,-466,-202,358,560,Greater Roland Park/Poplar Hill
+"Bridgeview/Greenlawn, Coppin Heights/Ash-Co-East, Evergreen Lawn, Franklintown Road, Mosher, Northwest Community Action, Rosemont, Winchester, Rosemont Homewoners/Tenants","14","14",-2044,354,2398,-9285,-663.214285714286,-523.5,635.464979204927,-2044,-2044,-1124,-247,877,Greater Rosemont
+"Rosemont East, Westfield, Glenham-Belford","9","9",-620,1088,1708,77,8.55555555555556,3,514.195187995789,-620,-620,-399,107,506,Hamilton
+"Christopher (now Harford-Echodale/Perring Parkway), Hamilton Hills, Harford-Echodale/Perring Parkway (now Hamilton Hills), North Harford Road, Overlea, Taylor Heights, Woodring (now North Harford Road)","10","10",-620,1088,1708,-148,-14.8,-106.5,496.726443830002,-620,-620,-429,341,770,Hamilton Hills
+"Brewers Hill, Highlandtown","9","9",-1128,1047,2175,74,8.22222222222222,-148,677.19614387853,-1128,-1128,-338,531,869,Highlandtown
+"Forest Park Golf Course, Grove Park, Howard Park, West Arlington, Seton Business Park","6","6",-471,1358,1829,2735,455.833333333333,591,610.721272121925,-471,-471,-156,822,978,Howard Park/West Arlington
+"Federal Hill, Inner Harbor, Otterbein, Ridgely's Delight, Riverside, Sharp-Leadenhall, Stadium Area, Downtown West, SBIC (now South Baltimore), South Baltimore","11","11",-719,1353,2072,2675,243.181818181818,213,498.974005185881,-719,-719,15,334.5,319.5,Inner Harbor/Federal Hill
+"Arcadia, Belair-Parkside, Beverly Hills, Lauraville, Moravia-Walther, Morgan Park, Waltherson, Wilson Heights (now Moravia-Walther)","14","14",-511,1088,1599,2473,176.642857142857,25.5,423.9758428332,-511,-511,-78,517,595,Greater Lauraville
+"Glen Oaks, Idlewood, Loch Raven, Mt. Pleasant Park, Ramblewood, Woodbourne Heights","10","10",-604,1048,1652,753,75.3,-15.5,496.580517136949,-604,-604,-318,352,670,Loch Raven
+"Madison-Eastend, McElderry Park, Milton-Montford","10","10",-1128,73,1201,-3648,-364.8,-321,328.922726487544,-1128,-1128,-540,-177,363,Madison/East End
+"Hampden, Hoes Heights, Jones Falls Area, Medfield, Remington, Woodberry, Wyman Park","17","17",-1159,521,1680,-2855,-167.941176470588,-202,392.080194466302,-1159,-1159,-339,113,452,Hampden/Remington
+"Coldstream Homestead Montebello, East Baltimore Midway","9","9",-822,277,1099,-2825,-313.888888888889,-370,307.486745674398,-822,-822,-474,-118,356,Midway/Coldstream
+"Morrell Park, Oaklee, Saint Agnes, Saint Paul, Violetville, Wilhelm Park","11","11",-927,426,1353,-2389,-217.181818181818,-160,397.033504009152,-927,-927,-517.5,58,575.5,Morrell Park/Violetville
+"Coldspring, Mt. Washington, Sabina-Mattfeldt","10","10",-1217,260,1477,-1860,-186,59.5,449.021157630684,-1217,-1217,-477,138,615,Mount Washington/Coldspring
+"Bellona-Gittings, Blythewood, Cedarcroft, Guilford, Homeland, Kernewood, Lake Evesham, Rosebank, The Orchards, Villages Of Homeland, Tuscany-Canterbury, Loyola/Notre Dame, Radnor-Winston, York-Homeland","14","14",-1159,944,2103,1424,101.714285714286,88,536.391039204399,-1159,-1159,-68,471,539,North Baltimore/Guilford/Homeland
+"Hillen, Montebello, Morgan State University, New Northwood, Original Northwood, Perring Loch, Stonewood-Pentwood-Winston","13","13",-652,1048,1700,1234,94.9230769230769,123,480.691082879393,-652,-652,-118,352,470,Northwood
+"Greektown, Orangeville, Eastwood, Joseph Lee (now Bayview), Kresson, Baltimore Highlands, Hopkins Bayview, Bayview, Orangeville Industrial Area, Pulaski Industrial Area","10","10",-1128,1047,2175,-1588,-158.8,-333.5,610.785527006002,-1128,-1128,-553,449,1002,Greektown/Bayview
+"Baltimore-Linwood (now Patterson Park Neighborhood), Patterson Place, Ellwood Park/Monument","16","16",-1128,972,2100,-2476,-154.75,-198,476.105621159843,-1128,-1128,-425,-13,412,Patterson Park North & East
+"Druid Hill Park, Parkview/Woodbrook, Penn North, Reservoir Hill","13","13",-1220,521,1741,-3038,-233.692307692308,-238,399.720553274483,-1220,-1220,-319,-77,242,Penn North/Reservoir Hill
+"Arlington, Central Park Heights, Cylburn, Langston Hughes, Levindale, Pimlico Good Neighbors","9","9",-1217,138,1355,-4524,-502.666666666667,-477,515.372357297776,-1217,-1217,-1073,-97,976,Pimlico/Arlington/Hilltop
+"Hollins Market, Poppleton","8","8",-666,384,1050,17,2.125,15,304.901392871532,-666,-666,-96,230.5,326.5,Poppleton/The Terraces/Hollins Market
+"Easterwood, Harlem Park, Midtown-Edmondson, Sandtown-Winchester","13","13",-1220,27,1247,-6207,-477.461538461538,-290,464.708778183402,-1220,-1220,-796,-9,787,Sandtown-Winchester/Harlem Park
+"Locust Point, Port Covington, Locust Point Industrial Area","9","9",-719,791,1510,575,63.8888888888889,30,387.523029980712,-719,-719,-146,278,424,South Baltimore
+"Spring Garden Industrial Area, Canton Industrial Area, Graceland Park, Holabird Industrial Park, Medford, O'Donnell Heights, Saint Helena, Dundalk Marine Terminal","6","6",-473,1047,1520,1740,290,261.5,598.663511498738,-473,-473,-329,972,1301,Southeastern
+"Greenspring, Lucille Park, Park Circle, Parklane, Towanda-Grantley","11","11",-1217,455,1672,-3238,-294.363636363636,-187,498.087665290007,-1217,-1217,-421,8,429,Southern Park Heights
+"Booth-Boyd, Carrollton Ridge, Franklin Square, Millhill, Penrose/Fayette Street Outreach, Shipley Hill, Union Square, New Southwest/Mt. Clare","18","18",-1433,308,1741,-8290,-460.555555555556,-330,459.963672747005,-1433,-1433,-798,-57,741,Southwest Baltimore
+"Better Waverly, Ednor Gardens-Lakeside, Waverly","9","9",-822,664,1486,-2428,-269.777777777778,-280,416.962502384881,-822,-822,-633,-61,572,The Waverlies
+"Barre Circle, Carroll Park, Caroll-Camden Industrial Area, Washington Village/Pigtown","9","9",-927,308,1235,-864,-96,-24,354.351990728616,-927,-927,-183,206,389,Pigtown/Carroll Park
+"Lakeland, Mt. Winans, Westport","8","8",-555,383,938,-133,-16.625,6,301.608992530064,-555,-555,-243.5,257,500.5,Westport/Mount Winans/Lakeland
+Unassigned -- Jail,"4","4",-2743,253,2996,-3595,-898.75,-552.5,1114.70049228481,-2743,-2743,-1666,-131.5,1534.5,Unassigned -- Jail
+"Dunbar-Broadway, Gay Street, Middle East, Oldtown, Penn-Fallsway, Pleasant View Gardens, CARE","14","14",-2743,1038,3781,-3563,-254.5,-147,900.954949722,-2743,-2743,-540,289,829,Oldtown/Middle East
+"Washington Hill, Jonestown, Little Italy, Perkins Homes","8","8",-1253,1353,2606,782,97.75,251,778.844777539145,-1253,-1253,-543,633,1176,Harbor East/Little Italy
+"Druid Heights, Heritage Crossing, Madison Park, Upton","11","11",-1220,153,1373,-4753,-432.090909090909,-319,437.30651920082,-1220,-1220,-682.5,-4.5,678,Upton/Druid Heights
+"Bolton Hill, Charles North, Greenmount West, Mid-Town Belvedere, Mount Vernon","19","19",-2743,1353,4096,-5874,-309.157894736842,-347,838.83598943686,-2743,-2743,-626,78,704,Midtown
+"Greenmount Cemetery, Johnston Square, Oliver","13","13",-2743,1038,3781,-5065,-389.615384615385,-474,913.278417272423,-2743,-2743,-822,253,1075,Oliver/Johnston Square
