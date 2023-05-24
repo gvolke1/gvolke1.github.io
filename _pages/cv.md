@@ -38,6 +38,6 @@ Skills
 Service and leadership
 ======
 * Member of Board for UMBC's Public Service Scholars
-* Chair of Student Selection Committee of Sondheim Public Service Scholars 2021-2022,
-* Governor’s Citation - Sondheim Public Service Scholar: Summer 2019,
+* Chair of Student Selection Committee of Sondheim Public Service Scholars 2021-2022
+* Governor’s Citation - Sondheim Public Service Scholar: Summer 2019
 
