@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* 2023 to Present: Environmental Planner
-  * Blackwater Environmental
+* 2023 to Present: Blackwater Environmental - Environmental Planner
   
-* 2021 - 2023: ThinkBig Networks ISP - GIS Systems Engineer                                                                                                         * Blackwater Environmental 
+* 2021 - 2023: ThinkBig Networks ISP - GIS Systems Engineer                                                                                                         
   * Engineered fiber optic network in Charles, Queen Anne's, Harford and Kent counties
   * Generated As-Built and construction mapbooks of fiber builds for field use 
   * Calculated cost of materials, engineering and construction for fiber builds 
