@@ -19,8 +19,7 @@ Work experience
 ======
 * 2023 to Present: Environmental Planner
   * Blackwater Environmental
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  
 * 2021 - 2023: ThinkBig Networks ISP - GIS Systems Engineer                                                                                                         * Blackwater Environmental 
   * Engineered fiber optic network in Charles, Queen Anne's, Harford and Kent counties
   * Generated As-Built and construction mapbooks of fiber builds for field use 
