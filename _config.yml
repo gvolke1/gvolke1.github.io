@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Griff Volker's Portfolio"
+title                    : "Griff Volker's Personal Website"
 title_separator          : "-"
 name                     : &name "Griff Volker"
 description              : &description "GIS Grad Student Portfolio"
