@@ -19,7 +19,7 @@ Baltimore City has undergone significant population changes in recent years, wit
 
  <br/><img src='/portfolio/images/Balt City Bus Stops.png'>
  
- <br/><img src='/portfolio/images/ Census Tract 401 Bus Stops.png'>
+ <br/><img src='/portfolio/images/Census Tract 401 Bus Stops.png'>
  
  <br/><img src='/portfolio/images/bus_stops_401_plot.png'>
  
