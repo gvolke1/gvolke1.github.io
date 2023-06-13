@@ -41,3 +41,8 @@ Service and leadership
 * Chair of Student Selection Committee of Sondheim Public Service Scholars 2021-2022
 * Governor’s Citation - Sondheim Public Service Scholar: Summer 2019
 
+Certifications
+======
+* NHI Certificate - Intro to NEPA and Transportation Decision Making
+* NHI Certificate - Fundamentals of Environmental Justice (EJ)
+* ESRI Certifications - Using Raster Data for Site Selection, Working with Coordinate Systems in ArcGIS, Building Models for GIS Analysis
