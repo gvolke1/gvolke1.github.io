@@ -35,7 +35,7 @@ Skills
   * HTML
   * Javascript
   
-Service and leadership
+Service and Leadership
 ======
 * Member of Board for UMBC's Public Service Scholars
 * Chair of Student Selection Committee of Sondheim Public Service Scholars 2021-2022
