@@ -43,6 +43,6 @@ Service and Leadership
 
 Certifications
 ======
-* NHI Certificate - Intro to NEPA and Transportation Decision Making
-* NHI Certificate - Fundamentals of Environmental Justice (EJ)
+* National Highway Institute Certificate - Intro to NEPA and Transportation Decision Making
+* National Highway Institute Certificate - Fundamentals of Environmental Justice (EJ)
 * ESRI Certifications - Using Raster Data for Site Selection, Working with Coordinate Systems in ArcGIS, Building Models for GIS Analysis
