@@ -15,7 +15,7 @@ Education
 * Minor, Geographic Information Systems, Towson University, 2021
 * Current Master's Student, Geography and Environmental Systems, University of Maryland Baltimore County, 2023
 
-Work experience
+Work Experience
 ======
 * 2023 to Present: Blackwater Environmental - Environmental Planner
   
