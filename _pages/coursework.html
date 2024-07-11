@@ -4,9 +4,39 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---
-{% include base_path %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coursework</title>
+  <style>
+    .course {
+      margin-bottom: 10px;
+    }
+    .course h3 {
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+    .course p {
+      margin-top: 5px;
+      margin-bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="course">
+    <h3>Just Maps: Critical and Ethical Aspects of Mapping</h3>
+    <p>Design principles with practical exercises to produce high-quality, publication-standard maps</p>
+  </div>
+  <div class="course">
+    <h3>Advanced Applications of GIS</h3>
+    <p>Using R & Census data to produce maps, graphs, & web applications for analysis of demographics trends</p>
+  </div>
+  <div class="course">
+    <h3>Web GIS Development</h3>
+    <p>Creating web based maps using Javascript, Python & HTML</p>
+  </div>
+</body>
+</html>
 
-
-{% for post in site.coursework %}
-  {% include archive-single.html %}
-{% endfor %}
