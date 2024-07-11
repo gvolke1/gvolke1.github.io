@@ -1,5 +1,5 @@
 ---
-title: "Advanced Applications of GIS - Final Project"
+title: "Analysis of Census Tract Population Change and Bus Stops in Baltimore City"
 excerpt: "Analysis of Census Tract Population Change and Bus Stops in Baltimore City
  <br/><img src='/portfolio/images/Balt City Pop Change.png'>"
 collection: portfolio
