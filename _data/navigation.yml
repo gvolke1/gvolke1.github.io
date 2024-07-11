@@ -3,10 +3,10 @@ main:
 
     
   - title: "CV"
-    url: /CV/
+    url: /cv/
 
   - title: "Portfolio"
-    url: /Portfolio/
+    url: /portfolio/
     
   - title: "Coursework"
-    url: /Other/  
+    url: /coursework/  
