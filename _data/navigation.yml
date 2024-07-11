@@ -2,11 +2,11 @@
 main:
 
     
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "CV"
-    url: /cv/
+    url: /CV/
+
+  - title: "Portfolio"
+    url: /Portfolio/
     
-  - title: "Other"
+  - title: "Coursework"
     url: /Other/  
