@@ -1,7 +1,7 @@
 ---
 title: "Demographic Analysis Using Census Data and R"
 excerpt: "Demographic Analysis Using Census Data and R
- <br/><img src='/coursework/images/'>"
+ <br/><img src='/coursework/images/Median Household Income counties in Maine.png'>"
 collection: portfolio
 ---
 
