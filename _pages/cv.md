@@ -41,10 +41,9 @@ Work Experience
     </style>
 </head>
 <body>
-   Blackwater Environmental Group
-      2023 to 2024
+  <h2>Blackwater Environmental Group 2023 to 2024</h2>
   
-    <h2>Bay Crossing Study</h2>
+    <h3>Bay Crossing Study</h3>
     <p>Led community engagement efforts for the new Bay Crossing including the Centreville Senior Summit, fostering public participation and feedback essential for project success. I managed demographic data collection for each Census Tract and Block Group within the study area, ensuring comprehensive insights into community needs and noting preferences and feedback for the project. I organized and meticulously cleaned bridge survey respondent data to facilitate accurate analysis and decision-making. For our documentation and progress reports, I Ddeveloped interactive maps showing survey results using ArcGIS Online. After presenting findings to senior stakeholders, my work helped guide data-driven discussions and strategic planning.</p>
 
     <h2>M-NCPPC Safe Streets for All (SS4A)</h2>
