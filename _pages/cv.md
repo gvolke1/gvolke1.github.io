@@ -60,7 +60,7 @@ Work Experience
     <li>Forests</li>
     <li>100-year Floodplains</li>
     <li>Waterways</li>
-    <li>National Register of Historic Places Properties in Compliance with Section 106 of the National Historic Preservation Act</li>
+    <li>National Register of Historic Places (NRHP) Properties in Compliance with Section 106 of the National Historic Preservation Act</li>
     <li>Maryland Inventory of Historic Properties</li>
     <li>Maryland Historic Trust Preservation Easements</li>
     <li>Wetlands</li>
