@@ -56,16 +56,16 @@ Work Experience
     <h3>M-NCPPC Safe Streets for All (SS4A)</h3>
     <p>Montgomery Parks, part of The Maryland-National Capital Park and Planning Commission (M-NCPPC), received $7.5 million from the Safe Streets and Roads for All (SS4A) grant program. The money was used to facilitate safe access to parks, trails, and recreation facilities in the county through 2026. The SS4A program funds regional, local, and Tribal initiatives to prevent roadway deaths and serious injuries. The SS4A grant money was applied to three major parks and trails in the county: Sligo Creek Stream Valley Park and trail, Matthew Henson State Park and trail, and Wheaton Regional Park. All these sites are adjacent to locations where 14 pedestrian and bicyclist deaths occurred between 2015 – 2019. The locations are all in historically disadvantaged communities. The parks department deployed four strategies to improve safety at the access points, including, developing safe trail connections to neighborhood, providing safe crossings for people walking, biking and driving through intersections, and creating separated spaces for all users of the transportation network in dense multimodal areas. For this project, I conducted detailed desktop reviews of natural and environmental resources across 23 project areas, enhancing pedestrian safety and accessibility to key community access points to Sligo Creek Park, Wheaton Regional Park, and Matthew Henson Trail. I evaluated natural and environmental resources using GIS to ensure compliance with environmental regulations such as Section 106 of the National Historic Preservation Act and Section 4(f), including: 
     <ul>
-    <li>sensitive species</li>
-    <li>forests</li>
-    <li>100-year floodplains</li>
-    <li>waterways</li>
+    <li>Sensitive Species</li>
+    <li>Forests</li>
+    <li>100-year Floodplains</li>
+    <li>Waterways</li>
     <li>National Register of Historic Places Properties in Compliance with Section 106 of the National Historic Preservation Act</li>
     <li>Maryland Inventory of Historic Properties</li>
     <li>Maryland Historic Trust Preservation Easements</li>
     <li>Wetlands</li>
     <li>Protected Lands</li>
-    <li>Department of Natural Resources (DNR) easements</li>
+    <li>Department of Natural Resources (DNR) Easements</li>
     </ul> I created mapping for the project areas using ArcGIS Pro and drafted the Categorical Exclusion (CE) to submit to Federal Highway Administration (FHWA) describing project scope, impact and environmental and natural resources in the project area. The National Environmental Policy Act (NEPA) defines categorical exclusions (CEs) as a category of actions that a Federal agency has determined normally does not significantly affect the quality of the human environment. I coordinated with Maryland Historical Trust (MHT), Maryland Department of Natural Resources, Wildlife & Heritage Service, ensuring comprehensive project alignment with government agencies assessment of the project impacts.</p>
 
     <h3>MDOT SHA Grants Program - Transportation Alternatives Program (TAP) and Recreational Trails Program</h3>
