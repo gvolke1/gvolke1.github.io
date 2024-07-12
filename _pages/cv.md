@@ -17,7 +17,6 @@ Education
 
 Work Experience
 ======
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,11 @@ Work Experience
     <h2>Blackwater Environmental Group 2023 to 2024</h2>
   
     <h3>Bay Crossing Study</h3>
-    <p>Led community engagement efforts for the new Bay Crossing including the Centreville Senior Summit, fostering public participation and feedback essential for project success. Managed demographic data collection for each Census Tract and Block Group within the study area, ensuring comprehensive insights into community needs and noting preferences and feedback for the project. Organized and meticulously cleaned bridge survey respondent data to facilitate accurate analysis and decision-making. For our documentation and progress reports, I developed interactive maps showing survey results using ArcGIS Online. After presenting findings to senior stakeholders, my work helped guide data-driven discussions and strategic planning.</p>
+            <p>The Chesapeake Bay Crossing Study: Tier 2 NEPA (Tier 2 Study) is a National Environmental Policy Act (NEPA) study that will analyze alternatives to provide congestion relief and improve travel reliability, mobility and safety across the Chesapeake Bay. Managed community engagement efforts for the Bay Crossing Study including the Centreville Senior Summit, fostering public participation and feedback essential for project success. Researched demographic data for each Census Tract and Block Group within the study area, ensuring comprehensive insights into community needs, noting preferences for construction and feedback for the project. Organized and meticulously cleaned bridge survey respondent data to facilitate accurate analysis and decision-making. For our documentation and progress reports, developed interactive maps showing survey results from respondents in the study area using ArcGIS Online. After presenting findings to senior stakeholders, work helped guide data-driven discussions and strategic planning.</p>
+        </div>
+        <div class="project-image">
+            <img src="https://www.baycrossingstudy.com/images/template/BCS_Project_Map.jpg" alt="Bay Crossing Study Project Map">
+        </div>
 
     <h3>M-NCPPC Safe Streets for All (SS4A)</h3>
     <p>Conducted detailed desktop reviews of natural and environmental resources across 23 project areas, enhancing pedestrian safety and accessibility to key community landmarks including Sligo Creek Park, Wheaton Regional Park, and Matthew Henson Trail. Evaluated sensitive ecological features such as S3PA species, forests, floodplains, and waterways, ensuring compliance with environmental regulations. Facilitated extensive mapping and documentation efforts to support Categorical Exclusion processes. Collaborated effectively with Maryland Historical Trust for Section 106 responses and Maryland Department of Natural Resources, Wildlife & Heritage Service, ensuring comprehensive project alignment with conservation goals.</p>
