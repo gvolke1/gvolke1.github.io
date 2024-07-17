@@ -51,7 +51,6 @@ Work Experience
     </style>
 </head>
 <body>
-    <h1>Work Experience</h1>
 
     <h2>Blackwater Environmental Group: 2023 - 2024</h2>
     <h3>Bay Crossing Study</h3>
