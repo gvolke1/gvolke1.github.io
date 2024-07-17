@@ -17,9 +17,6 @@ Education
 
 Work Experience
 ======
-Certainly! Here's the updated HTML code with additional sentences added to the WSP and MTA project descriptions:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -147,7 +144,6 @@ Certainly! Here's the updated HTML code with additional sentences added to the W
         <li>National Highway Institute Certificate - Fundamentals of Environmental Justice (EJ)</li>
         <li>ESRI Certifications - Using Raster Data for Site Selection, Working with Coordinate Systems in ArcGIS, Building Models for GIS Analysis</li>
     </ul>
-
 </body>
 </html>
 
