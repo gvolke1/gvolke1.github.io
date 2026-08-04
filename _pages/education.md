@@ -1,12 +1,5 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
-author_profile: true
-
-======
----
-layout: archive
 title: "Education & Credentials"
 permalink: /education/
 author_profile: true

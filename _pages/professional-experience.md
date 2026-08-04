@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Experience"
-permalink: /professionial-experience/
+permalink: /professional-experience/
 author_profile: true
 redirect_from:
   - /cv/
