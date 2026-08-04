@@ -1,22 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Professional Experience"
+permalink: /professionial-experience/
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
 ---
 
-{% include base_path %}
-Education
-======
-* B.S. Geography and Environmental Planning, Towson University, 2021
-* B.S. Metropolitan Studies, Towson University, 2021
-* Minor, Geographic Information Systems, Towson University, 2021
-* Current Master's Student, Geography and Environmental Systems, University of Maryland Baltimore County, 2023
-
-Work Experience
-======
 <html lang="en">
 <head>
     <meta charset="UTF-8">
