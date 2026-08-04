@@ -16,15 +16,15 @@ redirect_from:
 
 ### Selected Projects
 
-#### Peoria
+#### City of Peoria Fire-Medical Dept. Optimization Project
 ##### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
-As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, H3 hexagons, ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. More details: [Portfolio link placeholder](#)
+As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, [H3 hexagons] (https://h3geo.org/docs/), ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. More details: [Portfolio link placeholder](#)
 
-#### IMPACT
+#### IMPACT (Incident Management, Prioritization, Alerting and Coordination Tool)
 ##### Purpose: Help emergency managers identify natural hazards, understand their impacts, and prioritize response.
-I helped develop IMPACT’s (Incident Management, Prioritization, Alerting and Coordination Tool) geospatial data infrastructure to provide real-time alerts on natural disasters for mitigation, response and recovery by local EMS. I built Python ETL workflows that integrate live and forecast hazard data, with indicators of where vulnerable populations & critical infrastructure are located using [H3-based risk analytics](https://h3geo.org/docs/). I improved the method used to assign Census populations to hexagonal cells, increasing the accuracy of exposure estimates for eight at-risk population groups by more than 20 percent. More details: [Portfolio link placeholder](#)
+I helped develop IMPACT’s geospatial data infrastructure to provide real-time alerts on natural disasters for mitigation, response and recovery by local EMS. I built Python ETL workflows that integrate live and forecast hazard data, with indicators of where vulnerable populations & critical infrastructure are located using [H3-based risk analytics](https://h3geo.org/docs/). I improved the method used to assign Census populations to hexagonal cells, increasing the accuracy of exposure estimates for eight at-risk population groups by more than 20 percent. More details: [Portfolio link placeholder](#)
 
-#### DC OUC 911
+#### DC Office of Communication 911 Dashboard
 ##### Purpose: Give 911 supervisors real-time visibility into operations management.
 I helped build the dashboard’s data backbone by developing ETL workflows that combined CAD events with mobile-router telemetry from secured APIs and Sierra Wireless gateways. Using JavaScript, Node.js, PostgreSQL/PostGIS, SQL, GeoJSON, Leaflet, and Tabulator, I implemented quality checks, deduplication, spatial indexing, and data services that replaced manual log reviews with faster operational monitoring. More details: [Portfolio link placeholder](#)
 
@@ -32,9 +32,9 @@ I helped build the dashboard’s data backbone by developing ETL workflows that 
 ##### Purpose: Help FEMA understand reporting relationships and make informed staffing, capacity, and procurement decisions.
 I developed an interactive Power BI organizational chart that allowed users to see who reported to whom and filter personnel by division, branch, office location, and other organizational attributes. I used produced step-by-step documentation so the tool could be refreshed by non-technical FEMA managers when employees, vacancies, or reporting relationships changed. More details: [Portfolio link placeholder](#)
 
-#### US Virgin Islands
+#### US Virgin Islands Address Standardization
 ##### Purpose: Modernize access to authoritative mapping and street-addressing information.
-As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming personal addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. More details: [Portfolio link placeholder](#)
+As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. More details: [Portfolio link placeholder](#)
 
 ## Blackwater Environmental Group
 <p class="entry-subtitle">
