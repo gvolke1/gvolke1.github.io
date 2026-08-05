@@ -12,7 +12,7 @@ Some projects appear in multiple sections because they combine multiple skills.
 
 Projects involving web applications, interactive maps, user interfaces, and programming languages.
 
-[View development projects]({{ '/portfolio/development/' | relative_url }})
+[View web development projects]({{ '/portfolio/development/' | relative_url }})
 
 ---
 
