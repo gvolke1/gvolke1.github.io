@@ -99,7 +99,7 @@ At ThinkBig Networks ISP, I was responsible for engineering a comprehensive fibe
 I conducted cost calculations for materials, engineering, and construction phases of fiber builds, ensuring project feasibility and cost-effectiveness. Additionally, I maintained a comprehensive database for construction updates, splicing, customer information, and equipment details, critical for project tracking and management. My meticulous approach to database management supported real-time project monitoring and informed decision-making processes. [More details]<!--(#)Portfolio link details later-->
 
 ## Project Management and Advanced Geoprocessing
-### Purpose: Oversee GIS-enabled project delivery and advanced spatial analysis for fibre operations.
+### Purpose: Oversee GIS-enabled project delivery and advanced spatial analysis for fiber operations.
 
 I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessing techniques to analyze and process spatial data effectively. This ensured that project requirements were met with precision and efficiency, contributing to successful project outcomes. By integrating geospatial analytics with project management practices, I facilitated seamless project execution and stakeholder communication, driving continuous improvement in network performance and customer satisfaction. [More details]<!--(#)Portfolio link details later-->
 
