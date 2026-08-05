@@ -14,6 +14,8 @@ Projects involving web applications, interactive maps, user interfaces, and prog
 
 [View web development projects]({{ '/portfolio/developer/' | relative_url }})
 
+<div style="clear:both;"></div>
+
 ---
 
 ## Cartography and Data Visualization
@@ -23,6 +25,8 @@ Projects demonstrating map design, thematic mapping,
 and the communication of spatial information.
 
 [View cartography projects]({{ '/portfolio/cartography/' | relative_url }})
+
+<div style="clear:both;"></div>
 
 ---
 
