@@ -12,14 +12,13 @@ cartography, spatial analysis, and data analysis.
 
 <a href="{{ '/portfolio/development/' | relative_url }}">
   <img
-    src="{{ '/images/portfolio/skills/development-preview.jpg' | relative_url }}"
+    src="https://www.webstackacademy.com/wp-content/uploads/2023/01/Full-Stock-Hero.png"
     alt="Preview of web GIS and development projects"
-    style="width: 100%; max-width: 800px; height: auto;"
+    style="width: 100%; max-width: 500px; height: auto;"
   >
 </a>
 
-Projects involving web applications, interactive maps, user interfaces,
-JavaScript, HTML, CSS, and GIS development.
+Projects involving web applications, interactive maps, user interfaces, and programming languages.
 
 [View development projects]({{ '/portfolio/development/' | relative_url }})
 
@@ -29,9 +28,9 @@ JavaScript, HTML, CSS, and GIS development.
 
 <a href="{{ '/portfolio/cartography/' | relative_url }}">
   <img
-    src="{{ '/images/portfolio/skills/cartography-preview.jpg' | relative_url }}"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCin6ZJu8iEeQczQkrvKgLLGoyugzXlhwSK-LJED5gw&s=10"
     alt="Preview of cartography and data visualization projects"
-    style="width: 100%; max-width: 800px; height: auto;"
+    style="width: 100%; max-width: 500px; height: auto;"
   >
 </a>
 
