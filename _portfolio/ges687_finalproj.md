@@ -1,7 +1,6 @@
 ---
 title: "Analysis of Census Tract Population Change and Bus Stops in Baltimore City"
 excerpt: "<br/><img src='/portfolio/images/Balt City Pop Change.png'>"
-collection: portfolio
 ---
 
 <h2>Project Overview</h2>
