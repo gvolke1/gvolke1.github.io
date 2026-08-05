@@ -30,7 +30,7 @@ I helped develop IMPACT’s geospatial data infrastructure to provide real-time 
 ## DC Office of Communication 911 Dashboard
 ### Purpose: Give 911 supervisors real-time visibility into operations management.
 
-<img class="project-image" style="max-width:420px; width:100%; height:420px; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
+<img class="project-image" style="max-width:210px; width:100%; height:210px; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
 
 I helped build the dashboard’s data backbone by developing ETL workflows that combined CAD events with mobile-router telemetry from secured APIs and Sierra Wireless gateways. Using JavaScript, Node.js, PostgreSQL/PostGIS, SQL, GeoJSON, Leaflet, and Tabulator, I implemented quality checks, deduplication, spatial indexing, and data services that replaced manual log reviews with faster operational monitoring. [More details]<!--(#)Portfolio link details later-->
 
@@ -44,13 +44,13 @@ I developed an interactive Power BI organizational chart that allowed [FEMA Risk
 ## US Virgin Islands Address Standardization
 ### Purpose: Modernize access to authoritative mapping and street-addressing information.
 
-<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiEfeMCy-bRdigecR6IaUpeOdKL8khVeBXRaTv5gW4g&s=10" alt="US Virgin Islands Address Standardization" />
+<img class="project-image" style="max-width:210px; width:100%; height:210px; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiEfeMCy-bRdigecR6IaUpeOdKL8khVeBXRaTv5gW4g&s=10" alt="US Virgin Islands Address Standardization" />
 
 As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. [More details]<!--(#)Portfolio link details later-->
 
 # Blackwater Environmental Group
 <p class="entry-subtitle">
-  <span>Environmental Planner:</span>
+  <span>Environmental Planner</span>
 </p>
 
 ## Bay Crossing Study
@@ -95,8 +95,7 @@ I led the preparation of a detailed Categorical Exclusion (CE) for the replaceme
 
 # ThinkBig Networks ISP
 <p class="entry-subtitle">
-  <span>GIS Systems Engineer:</span>
-  <span class="entry-date">2021-2023</span>
+  <span>GIS Systems Engineer</span>
 </p>
 
 ## Engineering Fiber Optic Network in Various Counties
@@ -132,7 +131,7 @@ To maintain data integrity and streamline project execution, I established inter
 # WSP - Fare Collections Specialist Intern
 <p class="entry-subtitle">
   <span>Fare Collection Specialist Intern:</span>
-  <span class="entry-date">2020-2021</span>
+
 </p> 
 
 ## Evaluation of Baltimore City's Bus Route Locations & Commuter Demographic Info
