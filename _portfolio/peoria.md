@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/projects/peoria/
 
 skill_types:
-  - developer
+  - web-development
   - cartography
   - spatial-analysis
 

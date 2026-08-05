@@ -11,7 +11,7 @@ author_profile: true
 
 <ul>
 {% for post in site.portfolio %}
-  {% if post.skill_types contains "developer" %}
+  {% if post.skill_types contains "web-development" %}
     {% assign project_count = project_count | plus: 1 %}
 
     <li style="margin-bottom: 2rem;">
