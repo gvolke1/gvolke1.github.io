@@ -86,7 +86,7 @@ For the I-81 corridor expansion project at Showalter Rd, I played a pivotal role
 I led the preparation of a detailed Categorical Exclusion (CE) for the replacement of Glenville Rd over Mill Brook bridge. This included conducting historical research and structural analyses to assess the bridge's condition and identify necessary improvements. I worked closely with local authorities to address seasonal restrictions and minimize disruptions to local communities dependent on the bridge for transportation. [More details]<!--(#)Portfolio link details later--> 
 
 # ThinkBig Networks ISP - GIS Systems Engineer
-## Engineering Fiber Optic Network in Various Counties
+## Engineering Fiber Optic Network in Maryland
 ### Purpose: Design and deploy fiber network infrastructure across multiple Maryland counties.
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://images.ispreports.org/map/internet-provider-availability/thinkbig-networks-overall-availability.webp" alt="ThinkBig Networks Availability Map" />
