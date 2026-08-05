@@ -61,7 +61,7 @@ As the project’s web developer, I identified and integrated authoritative ArcG
 
 ![Bay Crossing Study Project Map](https://content.govdelivery.com/attachments/fancy_images/MDDOT/2023/06/7761168/4798573/baycrossing-tier-2-map_crop.jpg)
 
-The Chesapeake Bay Crossing Study: Tier 2 NEPA (Tier 2 Study) is a National Environmental Policy Act (NEPA) study that analyzed alternatives to provide congestion relief and improve travel reliability, mobility, and safety across the Chesapeake Bay. As part of this project, I managed community engagement efforts by coordinating public participation and feedback, including organizing public engagement events such as the Centreville Senior Summit. I conducted detailed demographic research for each Census Tract and Block Group within the study area to gather comprehensive insights into community needs and preferences regarding construction projects. Additionally, I played a key role in cleaning and analyzing bridge survey data, which involved meticulous data processing and the development of interactive maps using ArcGIS Online to visualize survey results and facilitate data-driven discussions and strategic planning. This initiative aimed to ensure that the final recommendations integrated stakeholder feedback and addressed community concerns effectively. [More details](#) - Portfolio link details later
+The Chesapeake Bay Crossing Study: Tier 2 NEPA (Tier 2 Study) is a National Environmental Policy Act (NEPA) study that analyzed alternatives to provide congestion relief and improve travel across the Chesapeake Bay. I managed community engagement efforts by organizing public engagement events. I conducted detailed demographic research for each Census Tract and Block Group within the study area to gather comprehensive info to meet federal requirements. I developed a bridge survey data form, and interactive maps to visualize survey results and facilitate data-driven discussions and strategic planning. [More details](#) - Portfolio link details later
 
 ### Maryland Transportation Authority – Key Bridge Replacement Project
 ##### Purpose: Coordinated closely with multiple government agencies, stakeholders, and regulatory bodies for Key Bridge Replacement
@@ -85,7 +85,7 @@ The Safe Streets for All (SS4A) initiative by Montgomery Parks aimed to enhance 
 
 ![Recreational Trails Program](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_72Ch2Tj-MvbdjAxLl6yXR3-ZS0JyMamNq3miajAqeHuvEv-S02EP-PO&s=10)
 
-Within the Maryland Department of Transportation (MDOT) State Highway Administration (SHA), I provided critical support to the Recreational Trails Program, focusing on conducting bridge and trail inspections. My responsibilities included identifying and addressing infrastructure issues such as overgrowth and structural integrity to ensure public safety and prolong the lifespan of transportation assets. I also assisted in managing the Transportation Alternatives Program (TAP) grants, reviewing invoices, and coordinating with project sponsors to track project progress and ensure efficient resource allocation. Learn more about the [Recreational Trails Program](https://roads.maryland.gov/mdotsha/pages/index.aspx?PageId=98). [More details](#) - Portfolio link details later
+Within the Maryland Department of Transportation (MDOT) State Highway Administration (SHA), I provided critical support to the [Recreational Trails Program](https://roads.maryland.gov/mdotsha/pages/index.aspx?PageId=98), focusing on conducting bridge and trail inspections. My responsibilities included identifying and addressing infrastructure issues, managing the Transportation Alternatives Program (TAP) grants, reviewing invoices, and coordinating with project sponsors to track project progress and ensure efficient resource allocation. [More details](#) - Portfolio link details later
 
 #### Programmatic Categorical Exclusions (PCEs) and Minor PCEs for SHA Road and Bridge Projects in Districts 3, 4 & 6
 ##### Purpose: Evaluate environmental impacts and regulatory compliance for roadway and bridge maintenance projects.
@@ -126,11 +126,9 @@ I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessi
 
 ### Integration of Publicly Available Housing Data
 ##### Purpose: Incorporate public cadastral and spatial data to improve fiber planning accuracy.
-
-Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. This data integration facilitated accurate planning and execution, considering all relevant factors in network development.
-
 ![ThinkBig Networks Data Integration](https://undefined.maps.arcgis.com/sharing/rest/content/items/042c633a05df48fa8561f245fccdd750/info/thumbnail/thumbnail.png?w=400)
 
+Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. This data integration facilitated accurate planning and execution, considering all relevant factors in network development.
 By harnessing comprehensive datasets, we enhanced project transparency and alignment with regulatory requirements, fostering sustainable growth and operational resilience across network deployments. [More details](#) - Portfolio link details later
 
 ### Development of Metadata Standards and Best Practices
