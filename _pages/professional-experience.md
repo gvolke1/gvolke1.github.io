@@ -70,7 +70,7 @@ As an environmental planner for the high-profile [Key Bridge Replacement Project
 ## M-NCPPC Safe Streets for All (SS4A)
 ### Purpose: Assess environmental and regulatory conditions for pedestrian safety improvements.
 
-<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://mocofamiliesforsafestreets.org/wp-content/uploads/2021/11/MoCoFSSsmall.png" alt="Safe Streets for All" />
+<img class="project-image" style="max-width:210px; width:100%; height:210px; display:block; margin:1rem 0;" src="https://mocofamiliesforsafestreets.org/wp-content/uploads/2021/11/MoCoFSSsmall.png" alt="Safe Streets for All" />
 
 The Safe Streets for All (SS4A) initiative by Montgomery Parks aimed to enhance pedestrian safety and accessibility across various parks and recreation facilities in Maryland. I contributed extensively to the project by conducting detailed desktop reviews of natural and environmental resources across 23 project areas. This involved evaluating sensitive species, waterways, and historical properties to ensure compliance with environmental regulations such as [Section 106 of the National Historic Preservation Act](https://www.achp.gov/protecting-historic-properties/section-106-process/introduction-section-106) and [Section 4(f)](http://environment.fhwa.dot.gov/env_topics/4f_tutorial/overview.aspx?h=e). My work identified critical environmental considerations that guided decision-making. [More details]<!--(#)Portfolio link details later-->
 
