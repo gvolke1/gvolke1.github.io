@@ -8,7 +8,7 @@ My portfolio is organized by the skills demonstrated through each project.
 Some projects appear in multiple sections because they combine multiple skills.
 
 # Web Development
-![Preview of web GIS and development projects](https://www.webstackacademy.com/wp-content/uploads/2023/01/Full-Stock-Hero.png){:style="width:100%; max-width:500px; height:auto;"}
+![Preview of web GIS and development projects](https://www.webstackacademy.com/wp-content/uploads/2023/01/Full-Stock-Hero.png){:style="width:100%; max-width:500px; height:500px;"}
 
 Projects involving web applications, interactive maps, user interfaces, and programming languages.
 
@@ -17,7 +17,7 @@ Projects involving web applications, interactive maps, user interfaces, and prog
 ---
 
 ## Cartography and Data Visualization
-![Preview of cartography and data visualization projects]({{ '/images/station-191-travel-times.jpg' | relative_url }}){:style="width:100%; max-width:500px; height:auto;"}
+![Preview of cartography and data visualization projects]({{ '/images/station-191-travel-times.jpg' | relative_url }}){:style="width:100%; max-width:500px; height:500px;"}
 
 Projects demonstrating map design, thematic mapping,
 and the communication of spatial information.
@@ -27,7 +27,7 @@ and the communication of spatial information.
 ---
 
 ## GIS and Spatial Analysis
-![Preview of GIS and spatial analysis projects](https://www.esri.com/arcgis-blog/app/uploads/2015/08/SpatialAnalysisLayers.jpg){:style="width:100%; max-width:500px; height:auto;"}
+![Preview of GIS and spatial analysis projects](https://www.esri.com/arcgis-blog/app/uploads/2015/08/SpatialAnalysisLayers.jpg){:style="width:100%; max-width:500px; height:500px;"}
 
 Projects involving spatial analysis, geographic data preparation, &
 statistical analysis. 
