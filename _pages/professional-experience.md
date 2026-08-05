@@ -17,7 +17,7 @@ Below are selected projects from my professional experience that demonstrate my 
 ### City of Peoria Fire-Medical Dept. Optimization Project
 ##### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
 
-<img class="project-image" src="https://i.ytimg.com/vi/pJQOW7acDvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARYSOJTvmQnpFKu9Ds8_RPrwJqCQ" alt="Peoria Fire-Medical Optimization" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://i.ytimg.com/vi/pJQOW7acDvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARYSOJTvmQnpFKu9Ds8_RPrwJqCQ" alt="Peoria Fire-Medical Optimization" />
 
 As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, [H3 hexagons](https://h3geo.org/docs/), ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. [More details](#) - Portfolio link details later
 
@@ -31,7 +31,7 @@ I helped develop IMPACT’s geospatial data infrastructure to provide real-time 
 ### DC Office of Communication 911 Dashboard
 ##### Purpose: Give 911 supervisors real-time visibility into operations management.
 
-<img class="project-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
 
 I helped build the dashboard’s data backbone by developing ETL workflows that combined CAD events with mobile-router telemetry from secured APIs and Sierra Wireless gateways. Using JavaScript, Node.js, PostgreSQL/PostGIS, SQL, GeoJSON, Leaflet, and Tabulator, I implemented quality checks, deduplication, spatial indexing, and data services that replaced manual log reviews with faster operational monitoring. [More details](#) - Portfolio link details later
 
@@ -45,7 +45,7 @@ I developed an interactive Power BI organizational chart that allowed [FEMA Risk
 ### US Virgin Islands Address Standardization
 ##### Purpose: Modernize access to authoritative mapping and street-addressing information.
 
-<img class="project-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiEfeMCy-bRdigecR6IaUpeOdKL8khVeBXRaTv5gW4g&s=10" alt="US Virgin Islands Address Standardization" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiEfeMCy-bRdigecR6IaUpeOdKL8khVeBXRaTv5gW4g&s=10" alt="US Virgin Islands Address Standardization" />
 
 As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. [More details](#) - Portfolio link details later
 
@@ -65,14 +65,14 @@ The Chesapeake Bay Crossing Study: Tier 2 NEPA (Tier 2 Study) is a National Envi
 ### Maryland Transportation Authority – Key Bridge Replacement Project
 ##### Purpose: Coordinated closely with multiple government agencies, stakeholders, and regulatory bodies for Key Bridge Replacement
 
-<img class="project-image" src="https://keybridgerebuild.com/wp-content/uploads/2025/10/KBR_website_logo_notag.png" alt="Key Bridge Replacement Project" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://keybridgerebuild.com/wp-content/uploads/2025/10/KBR_website_logo_notag.png" alt="Key Bridge Replacement Project" />
 
 As an environmental planner for the high-profile [Key Bridge Replacement Project](https://keybridgerebuild.com/), Griff led the project’s correspondence and communications strategy, managing relationships with project sponsors and regulatory officials to support timely compliance with NEPA, Section 106, and Section 4(f). By standardizing communication schedules and procedures, he improved the efficiency and clarity of project correspondence between agencies during an unprecedented event that received national attention. His work helped the project meet regulatory milestones on an expedited timeline while reducing the risk of delays.
 
 ### M-NCPPC Safe Streets for All (SS4A)
 ##### Purpose: Assess environmental and regulatory conditions for pedestrian safety improvements.
 
-<img class="project-image" src="https://mocofamiliesforsafestreets.org/wp-content/uploads/2021/11/MoCoFSSsmall.png" alt="Safe Streets for All" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://mocofamiliesforsafestreets.org/wp-content/uploads/2021/11/MoCoFSSsmall.png" alt="Safe Streets for All" />
 
 The Safe Streets for All (SS4A) initiative by Montgomery Parks aimed to enhance pedestrian safety and accessibility across various parks and recreation facilities in Maryland. I contributed extensively to the project by conducting detailed desktop reviews of natural and environmental resources across 23 project areas. This involved evaluating sensitive species, waterways, and historical properties to ensure compliance with environmental regulations such as [Section 106 of the National Historic Preservation Act](https://www.achp.gov/protecting-historic-properties/section-106-process/introduction-section-106) and [Section 4(f)](http://environment.fhwa.dot.gov/env_topics/4f_tutorial/overview.aspx?h=e). My work identified critical environmental considerations that guided decision-making. [More details](#) - Portfolio link details later
 
@@ -81,7 +81,7 @@ The Safe Streets for All (SS4A) initiative by Montgomery Parks aimed to enhance 
 
 #### Grants Program - Transportation Alternatives Program (TAP) and Recreational Trails Program
 
-<img class="project-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_72Ch2Tj-MvbdjAxLl6yXR3-ZS0JyMamNq3miajAqeHuvEv-S02EP-PO&s=10" alt="Recreational Trails Program" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_72Ch2Tj-MvbdjAxLl6yXR3-ZS0JyMamNq3miajAqeHuvEv-S02EP-PO&s=10" alt="Recreational Trails Program" />
 
 Within the Maryland Department of Transportation (MDOT) State Highway Administration (SHA), I provided critical support to the [Recreational Trails Program](https://roads.maryland.gov/mdotsha/pages/index.aspx?PageId=98), focusing on conducting bridge and trail inspections. My responsibilities included identifying and addressing infrastructure issues, managing the Transportation Alternatives Program (TAP) grants, reviewing invoices, and coordinating with project sponsors to track project progress and ensure efficient resource allocation. [More details](#) - Portfolio link details later
 
@@ -109,7 +109,7 @@ I led the preparation of a detailed Categorical Exclusion (CE) for the replaceme
 ### Engineering Fiber Optic Network in Various Counties
 ##### Purpose: Design and deploy fiber network infrastructure across multiple Maryland counties.
 
-<img class="project-image" src="https://images.ispreports.org/map/internet-provider-availability/thinkbig-networks-overall-availability.webp" alt="ThinkBig Networks Availability Map" />
+<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://images.ispreports.org/map/internet-provider-availability/thinkbig-networks-overall-availability.webp" alt="ThinkBig Networks Availability Map" />
 
 At ThinkBig Networks ISP, I was responsible for engineering a comprehensive fiber optic network across Charles, Queen Anne's, Harford, and Kent counties. This involved detailed planning, execution of fiber builds, and the generation of As-Built and construction mapbooks essential for accurate network deployment and maintenance.
 By leveraging advanced geospatial technologies, I optimized network design and expansion strategies, ensuring robust connectivity solutions that met community demand and operational standards. [More details](#) - Portfolio link details later
