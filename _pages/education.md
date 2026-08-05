@@ -7,6 +7,7 @@ author_profile: true
 ## University of Maryland, Baltimore County
 ### Master of Science in Geography and Environmental Systems
 **Completion in Fall 2026**
+
 My graduate research examines Baltimore's housing markets and neighborhood change through the development of an alternative housing market typology. Using principal component analysis, clustering, and spatial analysis, I am studying both traditional indicators of neighborhood disinvestment and the conditions that may influence future reinvestment.
 ### Graduate Certificate in Geographic Information Systems
 Graduate study in geospatial analysis, GIS development, spatial data management, web GIS, remote sensing, and GIS project leadership.
