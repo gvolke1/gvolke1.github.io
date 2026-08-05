@@ -1,14 +1,13 @@
 ---
 layout: archive
 title: "Professional Experience"
-Below are selected projects from my professional experience that demonstrate my work in geospatial development, data analysis, and public-sector decision support.
 permalink: /professional-experience/
 author_profile: true
 redirect_from:
   - /cv/
   - /resume
 ---
-
+Below are selected projects from my professional experience that demonstrate my work in geospatial development, data analysis, and public-sector decision support.
 ## New Light Technologies
 <p class="entry-subtitle">
   <span>GIS Developer, Coordinator and Analyst:</span>
