@@ -9,7 +9,7 @@ skill_types:
   - spatial-analysis
 
 header:
-  teaser: "images/peoria_landing_page.png"
+  teaser: "peoria_landing_page.png"
 ---
 
 ## Project Overview
@@ -18,7 +18,7 @@ header:
 
 ## Web Development
 
-artography and Data Visualization
+## Cartography and Data Visualization
 
 ## GIS and Spatial Analysis
 
