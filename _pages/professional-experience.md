@@ -9,7 +9,6 @@ redirect_from:
 ---
 Below are selected projects from my professional experience that demonstrate my work in geospatial development, data analysis, and public-sector decision support.
 # New Light Technologies - GIS Developer, Coordinator and Analyst
-
 ## City of Peoria Fire-Medical Dept. Optimization Project
 ### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
 
@@ -46,7 +45,6 @@ I developed an interactive Power BI organizational chart that allowed [FEMA Risk
 As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. [More details]<!--(#)Portfolio link details later-->
 
 # Blackwater Environmental Group - Environmental Planner
-
 ## Bay Crossing Study
 ### Purpose: Support NEPA analysis, community engagement, and neighborhood impact assessment.
 
@@ -88,7 +86,6 @@ For the I-81 corridor expansion project at Showalter Rd, I played a pivotal role
 I led the preparation of a detailed Categorical Exclusion (CE) for the replacement of Glenville Rd over Mill Brook bridge. This included conducting historical research and structural analyses to assess the bridge's condition and identify necessary improvements. I worked closely with local authorities to address seasonal restrictions and minimize disruptions to local communities dependent on the bridge for transportation. [More details]<!--(#)Portfolio link details later--> -->
 
 # ThinkBig Networks ISP - GIS Systems Engineer
-
 ## Engineering Fiber Optic Network in Various Counties
 ### Purpose: Design and deploy fiber network infrastructure across multiple Maryland counties.
 
@@ -119,7 +116,6 @@ By harnessing comprehensive datasets, we enhanced project transparency and align
 To maintain data integrity and streamline project execution, I established internal metadata standards for network points and developed best practices for GIS data management. This standardization ensured consistency and efficiency across all project phases. By implementing robust metadata frameworks, we improved data accessibility and usability, supporting informed decision-making and enhancing operational agility in dynamic project environments. [More details]<!--(#)Portfolio link details later-->
 
 # WSP - Fare Collections Specialist Intern
-
 ## Evaluation of Baltimore City's Bus Route Locations & Commuter Demographic Info
 ### Purpose: Analyze transit and demographic data to support strategic fare collection rollout.
 
@@ -151,7 +147,6 @@ As part of research into fare collection systems, I reviewed specifications for 
 In my role, I prepared Statements of Work (SOWs) from Requests for Proposals (RFPs) for future fare collection projects. These documents outlined project scopes, deliverables, timelines, and resource requirements to ensure clear project guidelines and successful project execution. By defining comprehensive project frameworks, our SOWs facilitated collaborative partnerships and streamlined project workflows, promoting efficient project delivery and stakeholder satisfaction. [More details]<!--(#)Portfolio link details later-->
 
 # Maryland Transit Administration - Intern, Department of Fare Collections
-
 ## Daily Fare Collection Audits
 ### Purpose: Improve fare collection accuracy through daily audit monitoring.
 
