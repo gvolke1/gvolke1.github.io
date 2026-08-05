@@ -31,7 +31,7 @@ I helped develop IMPACT’s geospatial data infrastructure to provide real-time 
 ### DC Office of Communication 911 Dashboard
 ##### Purpose: Give 911 supervisors real-time visibility into operations management.
 
-<img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
+<img class="project-image" style="max-width:420px; width:100%; height:420px; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
 
 I helped build the dashboard’s data backbone by developing ETL workflows that combined CAD events with mobile-router telemetry from secured APIs and Sierra Wireless gateways. Using JavaScript, Node.js, PostgreSQL/PostGIS, SQL, GeoJSON, Leaflet, and Tabulator, I implemented quality checks, deduplication, spatial indexing, and data services that replaced manual log reviews with faster operational monitoring. [More details](#) - Portfolio link details later
 

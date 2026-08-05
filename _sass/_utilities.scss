@@ -303,6 +303,8 @@ body:hover .visually-hidden button {
   height: $navicon-height;
   background: #fff;
   margin: auto;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(#000, 0.08);
   -webkit-transition: 0.3s;
   transition: 0.3s;
 
