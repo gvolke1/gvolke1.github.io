@@ -83,7 +83,7 @@ For the I-81 corridor expansion project at Showalter Rd, I played a pivotal role
 
 <!--### Glenville Rd Over Mill Brook Bridge Replacement
 
-I led the preparation of a detailed Categorical Exclusion (CE) for the replacement of Glenville Rd over Mill Brook bridge. This included conducting historical research and structural analyses to assess the bridge's condition and identify necessary improvements. I worked closely with local authorities to address seasonal restrictions and minimize disruptions to local communities dependent on the bridge for transportation. [More details]<!--(#)Portfolio link details later--> -->
+I led the preparation of a detailed Categorical Exclusion (CE) for the replacement of Glenville Rd over Mill Brook bridge. This included conducting historical research and structural analyses to assess the bridge's condition and identify necessary improvements. I worked closely with local authorities to address seasonal restrictions and minimize disruptions to local communities dependent on the bridge for transportation. [More details]<!--(#)Portfolio link details later--> 
 
 # ThinkBig Networks ISP - GIS Systems Engineer
 ## Engineering Fiber Optic Network in Various Counties
