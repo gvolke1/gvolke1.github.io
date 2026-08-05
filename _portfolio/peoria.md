@@ -1,7 +1,7 @@
 ---
 title: "City of Peoria Fire-Medical Dept. Optimization Project"
 collection: portfolio
-permalink: /portfolio/projects/peoria-project/
+permalink: /portfolio/projects/peoria/
 
 skill_types:
   - developer

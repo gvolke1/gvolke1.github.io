@@ -1,20 +1,17 @@
 ---
 layout: archive
-title: "Cartography and Data Visualization Projects"
-permalink: /portfolio/cartography/
+title: "GIS and Spatial Analysis Projects"
+permalink: /portfolio/spatial-analysis/
 author_profile: true
 ---
 
 [Return to all portfolio skills]({{ '/portfolio/' | relative_url }})
 
-These projects demonstrate cartographic design, thematic mapping,
-visual hierarchy, and the communication of spatial information.
-
 {% assign project_count = 0 %}
 
 <ul>
 {% for post in site.portfolio %}
-  {% if post.skill_types contains "cartography" %}
+  {% if post.skill_types contains "spatial-analysis" %}
     {% assign project_count = project_count | plus: 1 %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -24,5 +21,5 @@ visual hierarchy, and the communication of spatial information.
 </ul>
 
 {% if project_count == 0 %}
-No cartography projects have been added yet.
+No spatial analysis projects have been added yet.
 {% endif %}

@@ -14,7 +14,7 @@ Below are selected projects from my professional experience that demonstrate my 
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://i.ytimg.com/vi/pJQOW7acDvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARYSOJTvmQnpFKu9Ds8_RPrwJqCQ" alt="Peoria Fire-Medical Optimization" />
 
-As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, [H3 hexagons](https://h3geo.org/docs/), ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. [More details] <!--(#)Portfolio link details later-->
+As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, [H3 hexagons](https://h3geo.org/docs/), ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. [More details]({{ '/portfolio/projects/peoria/' | relative_url }})
 
 ## IMPACT (Incident Management, Prioritization, Alerting and Coordination Tool)
 ### Purpose: Help emergency managers identify natural hazards, understand their impacts, and prioritize response.
