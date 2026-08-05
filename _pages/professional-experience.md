@@ -8,10 +8,7 @@ redirect_from:
   - /resume
 ---
 Below are selected projects from my professional experience that demonstrate my work in geospatial development, data analysis, and public-sector decision support.
-# New Light Technologies
-<p class="entry-subtitle">
-  <span>GIS Developer, Coordinator and Analyst</span>
-</p>
+# New Light Technologies - GIS Developer, Coordinator and Analyst
 
 ## City of Peoria Fire-Medical Dept. Optimization Project
 ### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
@@ -48,10 +45,7 @@ I developed an interactive Power BI organizational chart that allowed [FEMA Risk
 
 As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. [More details]<!--(#)Portfolio link details later-->
 
-# Blackwater Environmental Group
-<p class="entry-subtitle">
-  <span>Environmental Planner</span>
-</p>
+# Blackwater Environmental Group - Environmental Planner
 
 ## Bay Crossing Study
 ### Purpose: Support NEPA analysis, community engagement, and neighborhood impact assessment.
@@ -89,27 +83,23 @@ As part of SHA's environmental review process, I oversaw [Programmatic Categoric
 
 For the I-81 corridor expansion project at Showalter Rd, I played a pivotal role in developing a comprehensive Categorical Exclusion (CE) document. This involved conducting demographic analyses using Environmental Justice (EJ) screening tools to identify potential impacts on vulnerable populations. I collaborated closely with stakeholders to outline project backgrounds, impact assessments, and mitigation strategies. I facilitated public meeting materials to enhance community engagement and transparency throughout the project lifecycle, addressing equity concerns and adhering to federal guidelines. [More details]<!--(#)Portfolio link details later-->
 
-#### Glenville Rd Over Mill Brook Bridge Replacement
+<!--### Glenville Rd Over Mill Brook Bridge Replacement
 
-I led the preparation of a detailed Categorical Exclusion (CE) for the replacement of Glenville Rd over Mill Brook bridge. This included conducting historical research and structural analyses to assess the bridge's condition and identify necessary improvements. I worked closely with local authorities to address seasonal restrictions and minimize disruptions to local communities dependent on the bridge for transportation. [More details]<!--(#)Portfolio link details later-->
+I led the preparation of a detailed Categorical Exclusion (CE) for the replacement of Glenville Rd over Mill Brook bridge. This included conducting historical research and structural analyses to assess the bridge's condition and identify necessary improvements. I worked closely with local authorities to address seasonal restrictions and minimize disruptions to local communities dependent on the bridge for transportation. [More details]<!--(#)Portfolio link details later--> -->
 
-# ThinkBig Networks ISP
-<p class="entry-subtitle">
-  <span>GIS Systems Engineer</span>
-</p>
+# ThinkBig Networks ISP - GIS Systems Engineer
 
 ## Engineering Fiber Optic Network in Various Counties
 ### Purpose: Design and deploy fiber network infrastructure across multiple Maryland counties.
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://images.ispreports.org/map/internet-provider-availability/thinkbig-networks-overall-availability.webp" alt="ThinkBig Networks Availability Map" />
 
-At ThinkBig Networks ISP, I was responsible for engineering a comprehensive fiber optic network across Charles, Queen Anne's, Harford, and Kent counties. This involved detailed planning, execution of fiber builds, and the generation of As-Built and construction mapbooks essential for accurate network deployment and maintenance.
-By leveraging advanced geospatial technologies, I optimized network design and expansion strategies, ensuring robust connectivity solutions that met community demand and operational standards. [More details]<!--(#)Portfolio link details later-->
+At ThinkBig Networks ISP, I was responsible for engineering a comprehensive fiber optic network across Charles, Queen Anne's, Harford, and Kent counties. This involved detailed planning, execution of fiber builds. I automated the previously manually creation of As-Built and construction mapbooks essential for accurate network deployment and maintenance. [More details]<!--(#)Portfolio link details later-->
 
 ## Cost Calculation and Database Maintenance
 ### Purpose: Support project cost analysis and maintain GIS asset tracking for network deployments.
 
-I conducted cost calculations for materials, engineering, and construction phases of fiber builds, ensuring project feasibility and cost-effectiveness. Additionally, I maintained a comprehensive database for construction updates, splicing, customer information, and equipment details, critical for project tracking and management. My meticulous approach to database management supported real-time project monitoring and informed decision-making processes, enhancing operational efficiency and resource utilization. [More details]<!--(#)Portfolio link details later-->
+I conducted cost calculations for materials, engineering, and construction phases of fiber builds, ensuring project feasibility and cost-effectiveness. Additionally, I maintained a comprehensive database for construction updates, splicing, customer information, and equipment details, critical for project tracking and management. My meticulous approach to database management supported real-time project monitoring and informed decision-making processes. [More details]<!--(#)Portfolio link details later-->
 
 ## Project Management and Advanced Geoprocessing
 ### Purpose: Oversee GIS-enabled project delivery and advanced spatial analysis for fibre operations.
@@ -129,10 +119,6 @@ By harnessing comprehensive datasets, we enhanced project transparency and align
 To maintain data integrity and streamline project execution, I established internal metadata standards for network points and developed best practices for GIS data management. This standardization ensured consistency and efficiency across all project phases. By implementing robust metadata frameworks, we improved data accessibility and usability, supporting informed decision-making and enhancing operational agility in dynamic project environments. [More details]<!--(#)Portfolio link details later-->
 
 # WSP - Fare Collections Specialist Intern
-<p class="entry-subtitle">
-  <span>Fare Collection Specialist Intern:</span>
-
-</p> 
 
 ## Evaluation of Baltimore City's Bus Route Locations & Commuter Demographic Info
 ### Purpose: Analyze transit and demographic data to support strategic fare collection rollout.
@@ -142,17 +128,17 @@ I conducted detailed analysis using ArcGIS to evaluate Baltimore City's bus rout
 ## Insight into Baltimore City's Transit Operations
 ### Purpose: Provide transit operations insight to inform fare collection and service decisions.
 
-I utilized web-based technologies to gain insights into Baltimore City's transit operations, including real-time data analysis and monitoring of transit services. My contributions helped optimize fare collection processes and improve overall operational efficiency. By integrating technological advancements, we streamlined fare management operations, reducing transactional complexities and enhancing customer satisfaction through enhanced service reliability. [More details]<!--(#)Portfolio link details later-->
+I utilized web-based technologies to gain insights into Baltimore City's transit operations, including real-time data analysis and monitoring of transit services. My contributions helped optimize fare collection processes and improve overall operational efficiency.  [More details]<!--(#)Portfolio link details later-->
 
 ## Customer Service Center (CSC) Contract Award
 ### Purpose: Support development of CSC operational requirements and KPI documentation.
 
-I played a key role in the successful award of a $20 million contract for the next-generation Customer Service Center (CSC) in San Francisco. My responsibilities included developing key performance indicators (KPIs), training plans, and operational requirements for seamless CSC operations. By aligning operational strategies with client objectives, we established robust service delivery frameworks that met contractual obligations and exceeded stakeholder expectations. [More details]<!--(#)Portfolio link details later-->
+I played a key role in the successful award of a $20 million contract for the next-generation Customer Service Center (CSC) in San Francisco. My responsibilities included developing key performance indicators (KPIs), training plans, and operational requirements for seamless CSC operations. [More details]<!--(#)Portfolio link details later-->
 
 ## Technical Proposals for CSC Operations
 ### Purpose: Develop technical proposals for scalable customer service operations across regions.
 
-I developed technical proposals outlining the operational framework for Customer Service Centers in various locations, including New York, Florida, and the Bay Area. These proposals detailed staffing requirements, technical specifications, and operational strategies for efficient CSC management. By integrating industry best practices, our proposals supported scalable service solutions that optimized resource utilization and service delivery, ensuring operational excellence across diverse geographic markets. [More details]<!--(#)Portfolio link details later-->
+I developed technical proposals outlining the operational framework for Customer Service Centers in various locations, including New York, Florida, and the Bay Area. These proposals detailed staffing requirements, technical specifications, and operational strategies for efficient CSC management. [More details]<!--(#)Portfolio link details later-->
 
 ## Review of ITS, BRT, & Fare Collection Systems
 ### Purpose: Evaluate ITS and fare collection systems to improve technology strategy and service reliability.
@@ -164,13 +150,7 @@ As part of research into fare collection systems, I reviewed specifications for 
 
 In my role, I prepared Statements of Work (SOWs) from Requests for Proposals (RFPs) for future fare collection projects. These documents outlined project scopes, deliverables, timelines, and resource requirements to ensure clear project guidelines and successful project execution. By defining comprehensive project frameworks, our SOWs facilitated collaborative partnerships and streamlined project workflows, promoting efficient project delivery and stakeholder satisfaction. [More details]<!--(#)Portfolio link details later-->
 
-# Maryland Transit Administration - Department of Fare Collections: 6/19 – 8/19
-<p class="entry-subtitle">
-  <span>Intern - Department of Fare Collections:</span>
-  <span class="entry-date">6/19-8/19</span>
-</p>
-
-## Selected Projects
+# Maryland Transit Administration - Intern, Department of Fare Collections
 
 ## Daily Fare Collection Audits
 ### Purpose: Improve fare collection accuracy through daily audit monitoring.

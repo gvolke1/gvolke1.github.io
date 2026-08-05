@@ -50,10 +50,15 @@
 
 .page__content {
 
-  h2 {
-    padding-bottom: 0.5em;
+  h1 { /*changed h1 sticky from h2 sticky, go back if needed */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    margin-top: 0;
+    padding: 0.75em 0;
+    background-color: $background-color;
     border-bottom: 1px solid $border-color;
-  }
+  } 
 
   h2 + .entry-subtitle,
   .entry-subtitle {
