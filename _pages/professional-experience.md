@@ -167,10 +167,48 @@ I gained expertise in the Maryland Transit Administration's fare collection syst
 I participated in orientations and seminars focused on enhancing workplace skills, including communication, teamwork, and project management. These sessions contributed to my professional development and preparedness for future roles. By fostering skill development, we cultivated a collaborative work environment that promoted innovation and excellence in transit service delivery, driving organizational success and employee engagement. [More details]<!--(#)Portfolio link details later-->
 
 # Skills
-R, HTML, Javascript, Python, Esri ArcGIS Products, ArcGIS Online/Pro, QGIS, SQL, PowerBI, Remote Sensing, Leaflet, Shiny, Mapbox, SNAP, ERDAS Imagine, Landsat, Sentinel, Google Earth, SPSS, Adobe Illustrator & Acrobat
+## Programming Languages and Web Development
+
+R, Python, JavaScript, HTML, CSS, SQL, Node.js, React, Vue, Shiny
+
+## GIS and Web Mapping
+
+Esri ArcGIS Products, ArcGIS Online, ArcGIS Pro, ArcCatalog, ArcGIS Enterprise, ArcGIS REST Services, ArcGIS Field Maps, Survey123, MapServer, ArcGIS UrbaN FeatureServer, SDE Files, QGIS, Leaflet, Mapbox, Deck.gl, GeoPandas, Geocoding, Network Analyst, Travel-Time Isochrones, H3 Hexagonal Indexing, Spatiotemporal Modeling, Georeferencing, CARTO, PostGIS, Google Earth KML, AWS, Hubspot, Asset Management
+
+## Remote Sensing and Earth Observation
+
+SNAP, ERDAS Imagine, Landsat, Sentinel, Google Earth, Temporal Satellite Imagery, LiDAR, terra, elevation modeling, NVDI, True Color Composites, Random Forests, machine learning (assisted and unasssisted), Time-Series, Urban Heat Islands, Digital Elevation Models (DEMS)
+
+## Data Analysis, Statistics, and Visualization
+
+R, Pandas, NumPy, Matplotlib, SPSS, Power BI, Dashboard Development, Data Classification, Statistical Analysis, Population-Growth Modeling, R Simulation Modeling, Fiona, Rasterio, OSMnx, ArcPy
+
+## Databases, APIs, and Data Engineering
+
+Database Management and Storage, SQL, PostgreSQL, PostgreSQL Database Connections, REST API Integration, JSON, GeoJSON, Postman, ETL, Census Data API, tidycensus, tigris, requests, Beautiful Soup
+
+## Development Workflow and Cloud Tools
+
+GitHub Repositories, GitHub Pull Requests and Code Review, Python Virtual Environments, .env Key Management, Docstrings, AWS Environments
+
+## Cartography and Graphic Design
+
+Cartographic Production, Color Theory, Adobe Illustrator, Adobe Acrobat, Lucid
+
+## Application Development and Business Intelligence
+
+Power Apps, Power BI, Dashboard Development, EDAMI/FEMA Dex
+
+## Project Management and Collaboration
+
+Scrum, Agile, Project Management, Communicating with non-technical stakeholders, Technical Collaboration, Code Review using Github
+
+## Emergency Management and Public Safety
+
+Emergency Management, Emergency Planning, Computer-Aided Dispatch Data, Radio-System Data, Staffing Modeling and Simulations
 
 # Service and Leadership
-- Chair of Student Selection Committee of Sondheim Public Service Scholars 2021-2022
+- Chair of Student Selection Committee of [Sondheim Public Service Scholars](https://shrivercenter.umbc.edu/publicservicescholars/) 2021-2022
 - Governor’s Citation - Sondheim Public Service Scholar: Summer 2019
 
 # Certifications
