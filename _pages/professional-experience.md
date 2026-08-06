@@ -7,7 +7,7 @@ redirect_from:
   - /cv/
   - /resume
 ---
-Below are selected projects from my professional experience that demonstrate my work in geospatial development, data analysis, and public-sector decision support.
+Below are selected projects from my professional experience that demonstrate my work. 
 # New Light Technologies - GIS Developer, Coordinator and Analyst
 ## City of Peoria Fire-Medical Dept. Optimization Project
 ### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
