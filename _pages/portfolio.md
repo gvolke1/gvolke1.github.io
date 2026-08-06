@@ -4,10 +4,9 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-My portfolio is organized by the skills demonstrated through each project.
-Some projects appear in multiple sections because they combine multiple skills.
+My portfolio highlights the technical skills I have developed through professional and academic projects.
 
-# Web Development
+## Web Development
 ![Preview of web GIS and development projects](https://www.webstackacademy.com/wp-content/uploads/2023/01/Full-Stock-Hero.png){:style="width:40%; max-width:300px; margin:0 0 1rem 1rem; height:auto;"}
 
 [View web development projects]({{ '/portfolio/web-development/' | relative_url }})
