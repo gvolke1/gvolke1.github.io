@@ -164,16 +164,16 @@ I gained expertise in the Maryland Transit Administration's fare collection syst
 ## Workplace Skills Development
 ### Purpose: Strengthen professional skills in communication, teamwork, and project coordination.
 
-I participated in orientations and seminars focused on enhancing workplace skills, including communication, teamwork, and project management. These sessions contributed to my professional development and preparedness for future roles. By fostering skill development, we cultivated a collaborative work environment that promoted innovation and excellence in transit service delivery, driving organizational success and employee engagement. [More details]<!--(#)Portfolio link details later-->
+I participated in orientations and seminars focused on enhancing workplace skills, including communication, teamwork, and project management. These sessions contributed to my professional development and preparedness for future roles. By fostering skill development, we cultivated a collaborative work environment that promoted innovation and excellence in transit service delivery, driving organizational success and employee engagement. [More details](#)Portfolio link details later-->
 
 # Skills
 ## Programming Languages and Web Development
 
-R, Python, JavaScript, HTML, CSS, SQL, Node.js, React, Vue, Shiny
+R, Python, JavaScript, HTML, SQL, Node.js, React, Vue, Shiny, AWS, Hubspot
 
 ## GIS and Web Mapping
 
-Esri ArcGIS Products, ArcGIS Online, ArcGIS Pro, ArcCatalog, ArcGIS Enterprise, ArcGIS REST Services, ArcGIS Field Maps, Survey123, MapServer, ArcGIS UrbaN FeatureServer, SDE Files, QGIS, Leaflet, Mapbox, Deck.gl, GeoPandas, Geocoding, Network Analyst, Travel-Time Isochrones, H3 Hexagonal Indexing, Spatiotemporal Modeling, Georeferencing, CARTO, PostGIS, Google Earth KML, AWS, Hubspot, Asset Management
+Esri ArcGIS Products, ArcGIS Online, ArcGIS Pro, ArcCatalog, ArcGIS Enterprise, ArcGIS REST Services, ArcGIS Field Maps, Survey123, MapServer, ArcGIS UrbaN FeatureServer, SDE Files, QGIS, Leaflet, Mapbox, Deck.gl, GeoPandas, Geocoding, Network Analyst, Travel-Time Isochrones, H3 Hexagonal Indexing, Spatiotemporal Modeling, Georeferencing, CARTO, PostGIS, Google Earth KML, Asset Management
 
 ## Remote Sensing and Earth Observation
 
