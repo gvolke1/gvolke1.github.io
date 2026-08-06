@@ -101,66 +101,65 @@ I conducted cost calculations for materials, engineering, and construction phase
 ## Project Management and Advanced Geoprocessing
 ### Purpose: Oversee GIS-enabled project delivery and advanced spatial analysis for fiber operations.
 
-I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessing techniques to analyze and process spatial data effectively. This ensured that project requirements were met with precision and efficiency, contributing to successful project outcomes. By integrating geospatial analytics with project management practices, I facilitated seamless project execution and stakeholder communication, driving continuous improvement in network performance and customer satisfaction. [More details]<!--(#)Portfolio link details later-->
+I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessing techniques to analyze and process spatial data effectively. I developed creative solutions that met project needs while saving both time and resources. [More details]<!--(#)Portfolio link details later-->
 
 ## Integration of Publicly Available Housing Data
 ### Purpose: Incorporate public cadastral and spatial data to improve fiber planning accuracy.
 ![ThinkBig Networks Data Integration](https://undefined.maps.arcgis.com/sharing/rest/content/items/042c633a05df48fa8561f245fccdd750/info/thumbnail/thumbnail.png?w=400)
 
-Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. This data integration facilitated accurate planning and execution, considering all relevant factors in network development.
-By harnessing comprehensive datasets, we enhanced project transparency and alignment with regulatory requirements, fostering sustainable growth and operational resilience across network deployments. [More details]<!--(#)Portfolio link details later-->
+Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. This data integration facilitated accurate planning and execution, considering all relevant factors in network development. [More details]<!--(#)Portfolio link details later-->
 
 ## Development of Metadata Standards and Best Practices
 ### Purpose: Create GIS metadata standards to improve data quality and project consistency.
 
-To maintain data integrity and streamline project execution, I established internal metadata standards for network points and developed best practices for GIS data management. This standardization ensured consistency and efficiency across all project phases. By implementing robust metadata frameworks, we improved data accessibility and usability, supporting informed decision-making and enhancing operational agility in dynamic project environments. [More details]<!--(#)Portfolio link details later-->
+To maintain data integrity and streamline project execution, I established internal metadata standards for network points and developed best practices for GIS data management. This standardization ensured consistency and efficiency across all project phases. [More details]<!--(#)Portfolio link details later-->
 
-# WSP - Fare Collections Specialist Intern
+<!--# WSP - Fare Collections Specialist Intern
 ## Evaluation of Baltimore City's Bus Route Locations & Commuter Demographic Info
 ### Purpose: Analyze transit and demographic data to support strategic fare collection rollout.
 
-I conducted detailed analysis using ArcGIS to evaluate Baltimore City's bus route locations and commuter demographic information. This analysis was crucial for planning the implementation of a new fare collection system at retail locations, ensuring alignment with the city's diverse population needs. By leveraging spatial analysis, our findings provided insights into transportation demand patterns, guiding strategic fare collection initiatives that enhanced service efficiency and commuter accessibility. [More details]<!--(#)Portfolio link details later-->
+I conducted detailed analysis using ArcGIS to evaluate Baltimore City's bus route locations and commuter demographic information. This analysis was crucial for planning the implementation of a new fare collection system at retail locations, ensuring alignment with the city's diverse population needs. By leveraging spatial analysis, our findings provided insights into transportation demand patterns, guiding strategic fare collection initiatives that enhanced service efficiency and commuter accessibility. [More details]<!--(#)Portfolio link details later
 
 ## Insight into Baltimore City's Transit Operations
 ### Purpose: Provide transit operations insight to inform fare collection and service decisions.
 
-I utilized web-based technologies to gain insights into Baltimore City's transit operations, including real-time data analysis and monitoring of transit services. My contributions helped optimize fare collection processes and improve overall operational efficiency.  [More details]<!--(#)Portfolio link details later-->
+I utilized web-based technologies to gain insights into Baltimore City's transit operations, including real-time data analysis and monitoring of transit services. My contributions helped optimize fare collection processes and improve overall operational efficiency.  [More details]<!--(#)Portfolio link details later
 
 ## Customer Service Center (CSC) Contract Award
 ### Purpose: Support development of CSC operational requirements and KPI documentation.
 
-I played a key role in the successful award of a $20 million contract for the next-generation Customer Service Center (CSC) in San Francisco. My responsibilities included developing key performance indicators (KPIs), training plans, and operational requirements for seamless CSC operations. [More details]<!--(#)Portfolio link details later-->
+I played a key role in the successful award of a $20 million contract for the next-generation Customer Service Center (CSC) in San Francisco. My responsibilities included developing key performance indicators (KPIs), training plans, and operational requirements for seamless CSC operations. [More details]<!--(#)Portfolio link details later
 
 ## Technical Proposals for CSC Operations
 ### Purpose: Develop technical proposals for scalable customer service operations across regions.
 
-I developed technical proposals outlining the operational framework for Customer Service Centers in various locations, including New York, Florida, and the Bay Area. These proposals detailed staffing requirements, technical specifications, and operational strategies for efficient CSC management. [More details]<!--(#)Portfolio link details later-->
+I developed technical proposals outlining the operational framework for Customer Service Centers in various locations, including New York, Florida, and the Bay Area. These proposals detailed staffing requirements, technical specifications, and operational strategies for efficient CSC management. [More details]<!--(#)Portfolio link details later
 
 ## Review of ITS, BRT, & Fare Collection Systems
 ### Purpose: Evaluate ITS and fare collection systems to improve technology strategy and service reliability.
 
-As part of research into fare collection systems, I reviewed specifications for Intelligent Transportation Systems (ITS), Bus Rapid Transit (BRT), and Fare Collection Systems for Maryland Parkway in Las Vegas. I then presented these findings to stakeholders, providing insights into technological requirements such as Computer-Aided Dispatch/Automatic Vehicle Location (CAD/AVL). By evaluating technological advancements, our assessments informed strategic investment decisions, supporting the implementation of innovative transportation solutions that enhanced system reliability and passenger experience. [More details]<!--(#)Portfolio link details later-->
+As part of research into fare collection systems, I reviewed specifications for Intelligent Transportation Systems (ITS), Bus Rapid Transit (BRT), and Fare Collection Systems for Maryland Parkway in Las Vegas. I then presented these findings to stakeholders, providing insights into technological requirements such as Computer-Aided Dispatch/Automatic Vehicle Location (CAD/AVL). By evaluating technological advancements, our assessments informed strategic investment decisions, supporting the implementation of innovative transportation solutions that enhanced system reliability and passenger experience. [More details]<!--(#)Portfolio link details later
 
 ## Drafting Statements of Work (SOWs)
 ### Purpose: Convert RFP requirements into clear Statements of Work for future fare collection projects.
 
-In my role, I prepared Statements of Work (SOWs) from Requests for Proposals (RFPs) for future fare collection projects. These documents outlined project scopes, deliverables, timelines, and resource requirements to ensure clear project guidelines and successful project execution. By defining comprehensive project frameworks, our SOWs facilitated collaborative partnerships and streamlined project workflows, promoting efficient project delivery and stakeholder satisfaction. [More details]<!--(#)Portfolio link details later-->
+In my role, I prepared Statements of Work (SOWs) from Requests for Proposals (RFPs) for future fare collection projects. These documents outlined project scopes, deliverables, timelines, and resource requirements to ensure clear project guidelines and successful project execution. By defining comprehensive project frameworks, our SOWs facilitated collaborative partnerships and streamlined project workflows, promoting efficient project delivery and stakeholder satisfaction. [More details]<!--(#)Portfolio link details later
 
 # Maryland Transit Administration - Intern, Department of Fare Collections
 ## Daily Fare Collection Audits
 ### Purpose: Improve fare collection accuracy through daily audit monitoring.
 
-As a Sondheim Public Service Scholar Intern and MDOT Fellow, I conducted daily audits of Maryland’s integrated transportation system fare collection. Responsibilities included financial audits and ensuring accuracy in fare collection records to maintain transparency and accountability. By implementing rigorous audit protocols, we enhanced financial accountability and operational efficiency, supporting sustainable transit funding and service expansion initiatives. [More details]<!--(#)Portfolio link details later-->
+As a Sondheim Public Service Scholar Intern and MDOT Fellow, I conducted daily audits of Maryland’s integrated transportation system fare collection. Responsibilities included financial audits and ensuring accuracy in fare collection records to maintain transparency and accountability. By implementing rigorous audit protocols, we enhanced financial accountability and operational efficiency, supporting sustainable transit funding and service expansion initiatives. [More details]<!--(#)Portfolio link details later
 
 ## Reconciliation of Transportation Purchases
 ### Purpose: Reconcile transit transactions across rail, bus, and commuter rail systems.
 
-In my role, I managed the reconciliation of light rail, bus, and MARC train purchases, tracking the agency's financial transactions and ensuring compliance with budgetary requirements. This task was crucial for financial transparency within the department. By optimizing financial reconciliation processes, we facilitated accurate budget forecasting and resource allocation, strengthening financial stewardship and operational resilience across transit service domains. [More details]<!--(#)Portfolio link details later-->
+In my role, I managed the reconciliation of light rail, bus, and MARC train purchases, tracking the agency's financial transactions and ensuring compliance with budgetary requirements. This task was crucial for financial transparency within the department. By optimizing financial reconciliation processes, we facilitated accurate budget forecasting and resource allocation, strengthening financial stewardship and operational resilience across transit service domains. [More details]<!--(#)Portfolio link details later
 
 ## Expertise in MTA's Fare Collection Systems
 ### Purpose: Learn fare collection operations to support system reliability and maintenance.
 
-I gained expertise in the Maryland Transit Administration's fare collection systems through the State of Good Repair (SOGR) program. This experience provided valuable insights into the operational and maintenance aspects of fare collection infrastructure. By participating in SOGR initiatives, we supported system reliability enhancements and lifecycle management strategies, ensuring continuous service availability and passenger satisfaction across Maryland’s transit network. [More details]<!--(#)Portfolio link details later-->
+I gained expertise in the Maryland Transit Administration's fare collection systems through the State of Good Repair (SOGR) program. This experience provided valuable insights into the operational and maintenance aspects of fare collection infrastructure. By participating in SOGR initiatives, we supported system reliability enhancements and lifecycle management strategies, ensuring continuous service availability and passenger satisfaction across Maryland’s transit network. [More details]<!--(#)Portfolio link details later
 
 ## Workplace Skills Development
 ### Purpose: Strengthen professional skills in communication, teamwork, and project coordination.
