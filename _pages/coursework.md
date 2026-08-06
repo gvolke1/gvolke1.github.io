@@ -3,8 +3,8 @@ layout: archive
 title: "Coursework"
 permalink: /coursework/
 author_profile: true
-courses:
-  graduate:
+---
+  Graduate Coursework:
     - title: "Just Maps: Critical and Ethical Aspects of Mapping"
       description: "Design principles with practical exercises to produce high-quality, publication-standard maps."
     - title: "Advanced Applications of GIS"
@@ -18,7 +18,7 @@ courses:
     - title: "GIS Building Spatial Datasets"
       description: "Tidy, transform, & visualize spatial data to understand both spatial & non-spatial attribute distributions, while also measuring spatial relationships & transforming feature geometry for advanced spatial analysis."
 
-  undergraduate:
+  Undergraduate Coursework:
     - title: "Physical Geography"
       description: "Introduction to the physical processes shaping the Earth's surface."
     - title: "Intro to Human Geography"
@@ -57,3 +57,4 @@ courses:
       description: "Study of the interactions between humans and their environment."
     - title: "Political Metro Growth and Change"
       description: "Examination of political processes influencing metropolitan growth and change."
+
