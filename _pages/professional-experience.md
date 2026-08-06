@@ -181,7 +181,7 @@ SNAP, ERDAS Imagine, Landsat, Sentinel, Google Earth, Temporal Satellite Imagery
 
 ## Data Analysis, Statistics, and Visualization
 
-R, Pandas, NumPy, Matplotlib, SPSS, Power BI, Dashboard Development, Data Classification, Statistical Analysis, Population-Growth Modeling, R Simulation Modeling, Fiona, Rasterio, OSMnx, ArcPy
+Pandas, NumPy, Matplotlib, SPSS, Power BI, Dashboard Development, Data Classification, Statistical Analysis, Population-Growth Modeling, R Simulation Modeling, Fiona, Rasterio, OSMnx, ArcPy
 
 ## Databases, APIs, and Data Engineering
 
