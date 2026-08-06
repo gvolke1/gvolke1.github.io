@@ -4,57 +4,33 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---
-  Graduate Coursework:
-    - title: "Just Maps: Critical and Ethical Aspects of Mapping"
-      description: "Design principles with practical exercises to produce high-quality, publication-standard maps."
-    - title: "Advanced Applications of GIS"
-      description: "Using R & Census data to produce maps, graphs, & web applications for analysis of demographic trends."
-    - title: "Web GIS Development"
-      description: "Creating web-based maps using Javascript, Python & HTML."
-    - title: "GIS Project Leadership and Management"
-      description: "Developing leadership and management skills for GIS projects."
-    - title: "Introduction to Satellite Image Analysis"
-      description: "Techniques and applications of satellite imagery in GIS."
-    - title: "GIS Building Spatial Datasets"
-      description: "Tidy, transform, & visualize spatial data to understand both spatial & non-spatial attribute distributions, while also measuring spatial relationships & transforming feature geometry for advanced spatial analysis."
-
-  Undergraduate Coursework:
-    - title: "Physical Geography"
-      description: "Introduction to the physical processes shaping the Earth's surface."
-    - title: "Intro to Human Geography"
-      description: "Study of human societies and their spatial dynamics."
-    - title: "Intro to Historical Study"
-      description: "Methods and approaches in historical research."
-    - title: "Historical Geography and Urbanization"
-      description: "Exploration of urban development and historical geography."
-    - title: "Urban Systems"
-      description: "Analysis of urban areas and their functioning."
-    - title: "African American History from the Mid 19th Century"
-      description: "Historical developments in African American history since the mid-19th century."
-    - title: "American National Government"
-      description: "Study of the structures and functions of the U.S. government."
-    - title: "Introduction to Urban Planning"
-      description: "Fundamentals of urban planning principles and practices."
-    - title: "The City in American History"
-      description: "Historical analysis of urban development in the United States."
-    - title: "State Government"
-      description: "Examination of state-level governance and politics."
-    - title: "Urban Government and Politics"
-      description: "Study of political processes and governance in urban areas."
-    - title: "Demography"
-      description: "Analysis of population dynamics and demographic trends."
-    - title: "Intro Geospatial Technology"
-      description: "Introduction to geospatial technologies and their applications."
-    - title: "Quantitative Methods in Geography"
-      description: "Application of quantitative methods in geographical research."
-    - title: "Growth of Geographic Thought"
-      description: "Historical development of geographic theories and methodologies."
-    - title: "Urban Economics"
-      description: "Economic analysis of urban areas and their development."
-    - title: "Intro to Geographic Information Science"
-      description: "Introduction to the principles and techniques of GIS."
-    - title: "Environmental Geography"
-      description: "Study of the interactions between humans and their environment."
-    - title: "Political Metro Growth and Change"
-      description: "Examination of political processes influencing metropolitan growth and change."
-
+    ## Graduate Coursework
+  
+  - **Just Maps: Critical and Ethical Aspects of Mapping** — Design principles with practical exercises to produce high-quality, publication-standard maps.
+  - **Advanced Applications of GIS** — Using R & Census data to produce maps, graphs, & web applications for analysis of demographic trends.
+  - **Web GIS Development** — Creating web-based maps using Javascript, Python & HTML.
+  - **GIS Project Leadership and Management** — Developing leadership and management skills for GIS projects.
+  - **Introduction to Satellite Image Analysis** — Techniques and applications of Remote Sensing and satellite imagery in GIS.
+  - **GIS Building Spatial Datasets** — Tidy, transform, & visualize spatial data to understand both spatial & non-spatial attribute distributions, while also measuring spatial relationships & transforming feature geometry for advanced spatial analysis.
+  
+  ## Undergraduate Coursework
+  
+  - **Physical Geography** — Introduction to the physical processes shaping the Earth's surface.
+  - **Intro to Human Geography** — Study of human societies and their spatial dynamics.
+  - **Intro to Historical Study** — Methods and approaches in historical research.
+  - **Historical Geography and Urbanization** — Exploration of urban development and historical geography.
+  - **Urban Systems** — Analysis of urban areas and their functioning.
+  - **African American History from the Mid 19th Century** — Historical developments in African American history since the mid-19th century.
+  - **American National Government** — Study of the structures and functions of the U.S. government.
+  - **Introduction to Urban Planning** — Fundamentals of urban planning principles and practices.
+  - **The City in American History** — Historical analysis of urban development in the United States.
+  - **State Government** — Examination of state-level governance and politics.
+  - **Urban Government and Politics** — Study of political processes and governance in urban areas.
+  - **Demography** — Analysis of population dynamics and demographic trends.
+  - **Intro Geospatial Technology** — Introduction to geospatial technologies and their applications.
+  - **Quantitative Methods in Geography** — Application of quantitative methods in geographical research.
+  - **Growth of Geographic Thought** — Historical development of geographic theories and methodologies.
+  - **Urban Economics** — Economic analysis of urban areas and their development.
+  - **Intro to Geographic Information Science** — Introduction to the principles and techniques of GIS.
+  - **Environmental Geography** — Study of the interactions between humans and their environment.
+  - **Political Metro Growth and Change** — Examination of political processes influencing metropolitan growth and change.
