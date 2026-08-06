@@ -4,7 +4,7 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---
-    ## Graduate Coursework
+  ## Graduate Coursework
   
   - **Just Maps: Critical and Ethical Aspects of Mapping** — Design principles with practical exercises to produce high-quality, publication-standard maps.
   - **Advanced Applications of GIS** — Using R & Census data to produce maps, graphs, & web applications for analysis of demographic trends.
