@@ -108,14 +108,16 @@
 
   .portfolio-preview-image {
     float: right;
-    width: 40%;
-    max-width: 300px;
+    width: auto;
+    max-height: 300px;
+    max-width: 100%;
     margin: 0 0 1rem 1rem;
     height: auto;
 
     @include breakpoint($medium) {
       float: none;
       width: 100%;
+      max-height: none;
       max-width: 100%;
       margin: 0 0 1rem 0;
     }
