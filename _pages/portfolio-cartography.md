@@ -7,8 +7,6 @@ author_profile: true
 
 [Return to all portfolio skills]({{ '/portfolio/' | relative_url }})
 
-These projects demonstrate cartographic design, thematic mapping,
-visual hierarchy, and the communication of spatial information.
 
 {% assign project_count = 0 %}
 

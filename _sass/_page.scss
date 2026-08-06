@@ -106,6 +106,21 @@
     }
   }
 
+  .portfolio-preview-image {
+    float: right;
+    width: 40%;
+    max-width: 300px;
+    margin: 0 0 1rem 1rem;
+    height: auto;
+
+    @include breakpoint($medium) {
+      float: none;
+      width: 100%;
+      max-width: 100%;
+      margin: 0 0 1rem 0;
+    }
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
