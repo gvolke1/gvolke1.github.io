@@ -7,15 +7,11 @@ author_profile: true
 My portfolio highlights the technical skills I have developed through professional and academic projects.
 
 ## Web Development
-![Preview of web GIS and development projects](https://www.webstackacademy.com/wp-content/uploads/2023/01/Full-Stock-Hero.png){:style="width:40%; max-width:300px; margin:0 0 1rem 1rem; height:auto;"}
-
 [View web development projects]({{ '/portfolio/web-development/' | relative_url }})
 
 ---
 
-## Cartography and Data Visualization
-![Preview of cartography and data visualization projects]({{ '/images/station-191-travel-times.jpg' | relative_url }}){:style="width:40%; max-width:300px; margin:0 0 1rem 1rem; height:auto;"}
-
+## Cartography, Graphic Design and Data Visualization
 [View cartography projects]({{ '/portfolio/cartography/' | relative_url }})
 
 <div style="clear:both;"></div>
@@ -23,6 +19,6 @@ My portfolio highlights the technical skills I have developed through profession
 ---
 
 ## GIS and Spatial Analysis
-![Preview of GIS and spatial analysis projects](https://www.esri.com/arcgis-blog/app/uploads/2015/08/SpatialAnalysisLayers.jpg){:style="width:40%; max-width:300px; margin:0 0 1rem 1rem; height:auto;"}
-
 [View spatial analysis projects]({{ '/portfolio/spatial-analysis/' | relative_url }})
+
+<!-- Other Skills (Subject to Editing); Front End Development, Programming Languages, Remote Sensing, Data Analysis & Statistics, Development Workflow and Cloud Tools, Application Development and Business Intelligence, Emergency Management and Public Safety, Stakeholder Coordination, Public Engagement, Network Analysis & Routing, Documentation & Workflows for Non technical Audience, Writing Environmental Reports, Asset Management, Automation and Speeding Up SOPs, Metadata Standards, Telecom Engineering, Equity, Engaging with the Public on Fiber Lines, Coordinating with Work in the field, Inventory & Invoices and Pricing and Billing, Scheduled Work order and Business Workflows, Easements & Parcel Data, Project Management and Coordination, ArcGIS and Esri Products like Experience Builder-->
