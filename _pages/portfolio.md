@@ -6,6 +6,10 @@ author_profile: true
 ---
 My portfolio highlights the technical skills I have developed through professional and academic projects.
 
+<!--When updating my website, use language from job descriptions that are from jobs I want and jobs that have done similar work to what I did-->
+
+<!--PCA and clustering are relevant machine learning skills. Use chatgpt for language that says you know machine learning through these methods. Consider doing a project using machine learning, including the Scikit package in Python, supervised learning with random forest xgboost, and clustering with silhouette score and Elbow method. -->
+
 ## Web Development
 [View web development projects]({{ '/portfolio/web-development/' | relative_url }})
 
