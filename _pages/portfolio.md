@@ -14,7 +14,6 @@ My portfolio highlights the technical skills I have developed through profession
 ## Cartography, Graphic Design and Data Visualization
 [View cartography projects]({{ '/portfolio/cartography/' | relative_url }})
 
-<div style="clear:both;"></div>
 
 ---
 
