@@ -4,9 +4,6 @@ title: "Media"
 permalink: /media/
 author_profile: true
 ---
-
-Selected interviews, features, and other coverage of my work.
-
 ## Baltimore Banner
 
 ### [How do you define downtown Baltimore? Draw it and show us.](https://www.thebanner.com/economy/growth-development/downtown-baltimore-map-draw-RLDNO3VXQZFNDEX7734IEEAYXE/)
