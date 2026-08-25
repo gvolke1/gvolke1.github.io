@@ -15,12 +15,3 @@ Graduate study in geospatial analysis, GIS development, spatial data management,
 ### Bachelor of Arts in Geography and Environmental Planning
 ### Bachelor of Arts in Metropolitan Studies
 ### Minor in Geographic Information Systems
-## Graduate Research Methods
-
-- Principal component analysis
-- Cluster analysis
-- Spatial statistics and multivariate mapping
-- Housing market and neighborhood analysis
-- Census, parcel, permit, lending, and land-use data
-- Reproducible spatial analysis in R
-- GIS data integration and visualization
