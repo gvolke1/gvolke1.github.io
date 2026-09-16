@@ -29,6 +29,8 @@ The housing-submarket literature helps explain why the purpose of a classificati
 
 In [*Do Housing Submarkets Really Matter?*](https://access.archive-ouverte.unige.ch/access/metadata/b023cc99-18b7-4f6b-8013-cbf6ce517016/download), Steven Bourassa, Martin Hoesli, and Vincent Peng  evaluate walk through different methods of classifying housing submarkets. My project will direct attention to historically disinvested areas of Baltimore city. That distinction will guide how I interpret the eventual results.
 
+I am particularly interested in whether historically disinvested neighborhoods contain combinations of existing assets that could support future equitable reinvestment benefiting current residents. 
+
 George Galster’s research on neighborhood character provides the conceptual foundation for selecting variables chosen to classify housing submarkets. He defines neighborhood (applicable to submarkets) as:
 
 > “Neighbourhood is the bundle of spatially based attributes associated with clusters of residences, sometimes in conjunction with other land uses.” [Galster, 2001, p. 2112.](https://doi.org/10.1080/00420980120087072)
