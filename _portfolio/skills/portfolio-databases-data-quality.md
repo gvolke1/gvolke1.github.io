@@ -25,4 +25,3 @@ I organize and maintain database and GIS records, checking that their structure 
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

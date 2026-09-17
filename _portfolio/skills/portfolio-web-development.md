@@ -31,4 +31,3 @@ I build interactive web maps and application services that make geographic and o
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

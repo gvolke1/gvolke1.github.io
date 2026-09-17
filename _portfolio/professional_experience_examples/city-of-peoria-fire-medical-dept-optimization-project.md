@@ -18,6 +18,23 @@ header:
   teaser: "peoria_landing_page.png"
 ---
  <!--when I have time, I want to review all the files I have on my role in Peoria thoroughly, and include more image breaks for better visuals here. Looking at things like "NLT Accomplishments", and "Peoria Fire Optimizer system overview, City of Peoria Firew Department optimization project, Peoria Project README, Peoria Plots & GIS Layer Information, etc.-->
+
+ <!--## Tools and Skills to consider later
+
+- Web GIS
+- React, MapLibre, and deck.gl
+- H3 spatial indexing and hexagon-based aggregation
+- ArcGIS REST services and GIS data integration
+- CAD incident data and geocoding
+- Fire and EMS demand, hotspot, and temporal analysis
+- GIS application testing
+- Cartographic design
+- Color theory and thematic map symbology
+- Spatial data
+- Technical documentation
+- Quality assurance
+- Project coordination
+-->
 ![Peoria IMPACT FEMS Optimization Platform]({{ '/images/peoria_landing_page.png' | relative_url }})
 
 ## Project Overview
@@ -70,18 +87,3 @@ I also reviewed the symbology and descriptions for the map layers to confirm tha
   </iframe>
 </div>
 
-## Tools and Skills
-
-- Web GIS
-- React, MapLibre, and deck.gl
-- H3 spatial indexing and hexagon-based aggregation
-- ArcGIS REST services and GIS data integration
-- CAD incident data and geocoding
-- Fire and EMS demand, hotspot, and temporal analysis
-- GIS application testing
-- Cartographic design
-- Color theory and thematic map symbology
-- Spatial data
-- Technical documentation
-- Quality assurance
-- Project coordination

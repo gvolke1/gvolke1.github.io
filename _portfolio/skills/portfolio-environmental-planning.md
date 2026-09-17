@@ -25,4 +25,3 @@ I combine geographic research, resource screening, and written analysis to suppo
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

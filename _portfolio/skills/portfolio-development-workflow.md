@@ -25,4 +25,3 @@ I organize, test, and share my work through GitHub so teammates can review it, d
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

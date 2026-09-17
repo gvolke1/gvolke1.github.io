@@ -31,4 +31,3 @@ I prepare and analyze geographic data, troubleshoot spatial relationships, and s
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

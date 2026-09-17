@@ -25,4 +25,3 @@ I prepare geographic and operational data to support understanding of hazards, e
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

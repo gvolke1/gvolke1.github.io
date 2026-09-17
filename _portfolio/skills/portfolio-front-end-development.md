@@ -25,4 +25,3 @@ I build and integrate browser-based interfaces that make project data and functi
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

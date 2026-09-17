@@ -32,4 +32,3 @@ I help turn operational needs into dashboard components, organizational charts, 
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})

@@ -25,4 +25,3 @@ I document methods, requirements, and procedures so colleagues can understand, r
 No projects have been added yet.
 {% endif %}
 
-[Professional experience]({{ '/professional-experience/' | relative_url }}) | [Portfolio by skill]({{ '/portfolio/' | relative_url }})
