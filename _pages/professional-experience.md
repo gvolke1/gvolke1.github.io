@@ -20,7 +20,7 @@ As the project’s geospatial lead, I analyzed CAD incident records, station sta
 ## IMPACT (Incident Management, Prioritization, Alerting and Coordination Tool)
 ### Purpose: Help emergency managers identify natural hazards, understand their impacts, and prioritize response.
 
-<img class="project-image" src="https://newlighttechnologies.com/hs-fs/hubfs/Devices-1.png?width=700&height=366&name=Devices-1.png" alt="IMPACT Data Infrastructure" />
+<img class="project-image" src="{{ '/images/IMPACTpreview.png' | relative_url }}" alt="IMPACT Data Infrastructure" />
 
 I helped develop IMPACT’s geospatial data infrastructure to provide real-time alerts on natural disasters for mitigation, response and recovery by local EMS. I built Python ETL workflows that integrate live and forecast hazard data, with indicators of where vulnerable populations & critical infrastructure are located using [H3-based risk analytics](https://h3geo.org/docs/). I improved the method used to assign Census populations to hexagonal cells, increasing the accuracy of exposure estimates for eight at-risk population groups by more than 20 percent. [More details]({{ '/portfolio/professional_experience_examples/impact-incident-management-prioritization-alerting-and-coordination-tool/' | relative_url }})
 
