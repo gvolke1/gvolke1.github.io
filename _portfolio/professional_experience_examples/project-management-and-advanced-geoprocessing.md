@@ -8,6 +8,8 @@ project_employer: "ThinkBig Networks"
 skills: ["Automation and Workflow Improvement", "Databases and Data Quality", "GIS and Spatial Analysis", "Infrastructure and Asset Management", "Project Coordination and Stakeholder Communication"]
 ---
 
+<!-- more info about this, because this shit was a lot. But then again, I did what automations do and understood data pipeline manually-->
+
 **Organization:** ThinkBig Networks  
 **My role:** GIS systems engineer and project coordinator
 

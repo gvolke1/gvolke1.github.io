@@ -14,6 +14,21 @@ My portfolio highlights the technical skills I have developed through profession
 
 <!-- Perhaps I can have separate links for software, programming languages and such?-->
 
+<!--Portfolio skills tagging logic. Each project has the skills listed below (e.g ##Webdevelopment) if the project involved that skill. Each skill page declares its matching skill name in `skill_names` at the front matter of the portfolio>skills folder mds.
+
+Like this; ---
+layout: archive
+title: "Automation and Workflow Improvement Projects"
+permalink: /portfolio/automation/
+author_profile: true
+skill_names:
+  - "Automation and Workflow Improvement"
+---
+
+Projects list their skills in front matter under `skills_names`, which map to an MD that includes hyperlinks to the projects using those skills in "professional_experience_examples" folder and (as of 9/16 will be adding more projects soon) "portfolio_projects" folder . professional experience examples are projects I wanted to highlight first...the rest will be found in portfolio_projects folder
+If a project skill matches the page skill name, its title is linked automatically.
+The link uses the project's permalink through `post.url`; no manual project links are needed. -->>
+
 ## Web Development
 [View web development projects]({{ '/portfolio/web-development/' | relative_url }})
 

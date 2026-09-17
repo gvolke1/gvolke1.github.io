@@ -3,7 +3,9 @@ layout: archive
 title: "Dashboards and Business Intelligence Projects"
 permalink: /portfolio/business-intelligence/
 author_profile: true
-skill_id: business-intelligence
+skill_names:
+  - "Application Prototyping, Dashboards and Business Intelligence"
+  - "Dashboards and Business Intelligence"
 ---
 
 [Return to all portfolio skills]({{ '/portfolio/' | relative_url }})
@@ -19,12 +21,15 @@ I help turn operational needs into dashboard components, organizational charts, 
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}
-  {% if post.skill_types contains "business-intelligence" %}
+  {% assign matches_skill = false %}
+  {% for skill_name in page.skill_names %}
+    {% if post.skills contains skill_name %}
+      {% assign matches_skill = true %}
+    {% endif %}
+  {% endfor %}
+  {% if matches_skill %}
     {% assign project_count = project_count | plus: 1 %}
-    <li style="margin-bottom: 1.25rem;">
-      <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
-      <div style="margin-top: 0.25rem;">{{ post.skill_contributions[page.skill_id] }}</div>
-    </li>
+    <li><a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a></li>
   {% endif %}
 {% endfor %}
 </ul>

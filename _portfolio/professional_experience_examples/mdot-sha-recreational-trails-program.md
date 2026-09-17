@@ -19,8 +19,7 @@ I reviewed invoices covering project materials and labor. This work required car
 
 A process-improvement component of the role involved developing clearer workflow documentation and strengthening internal quality control. The existing processes presented opportunities to organize recurring tasks more effectively. I helped document those tasks and improve how the work was carried out. 
 
-My responsibilities spanned physical inspections, construction activities, and detailed invoice reviews of materials, labor, and costs. I also coordinated critical information exchange among project sponsors and participants. Managing these diverse duties allowed me to successfully bridge the gap between physical progress and administrative records, fulfilling my drive to be 
-deeply involved in all facets of the project.
+My responsibilities spanned physical inspections, construction activities, and detailed invoice reviews of materials, labor, and costs. I also coordinated critical information exchange among project sponsors and participants.
 
 <!--Explore related skills:
 

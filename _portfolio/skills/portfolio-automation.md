@@ -3,7 +3,8 @@ layout: archive
 title: "Automation and Workflow Improvement Projects"
 permalink: /portfolio/automation/
 author_profile: true
-skill_id: automation
+skill_names:
+  - "Automation and Workflow Improvement"
 ---
 
 [Return to all portfolio skills]({{ '/portfolio/' | relative_url }})
@@ -19,12 +20,9 @@ I improve recurring processes by replacing repetitive manual steps with reusable
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}
-  {% if post.skill_types contains "automation" %}
+  {% if post.skills contains page.skill_names[0] %}
     {% assign project_count = project_count | plus: 1 %}
-    <li style="margin-bottom: 1.25rem;">
-      <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
-      <div style="margin-top: 0.25rem;">{{ post.skill_contributions[page.skill_id] }}</div>
-    </li>
+    <li><a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a></li>
   {% endif %}
 {% endfor %}
 </ul>

@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 Below are selected projects from my professional experience that demonstrate my work. 
-<!-- These pages are rough drafts in "professional experience examples folder". I want to go through them later myself.-->
+<!-- These pages are rough drafts in "professional experience examples folder". I want to go through them later myself. Explore adding skills and software in the project detailed descriptions located in the MDs-->
 # New Light Technologies - GIS Developer, Coordinator and Analyst
 ## City of Peoria Fire-Medical Dept. Optimization Project
 ### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
@@ -108,7 +108,7 @@ I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessi
 ### Purpose: Incorporate public cadastral and spatial data to improve fiber planning accuracy.
 ![ThinkBig Networks Data Integration](https://undefined.maps.arcgis.com/sharing/rest/content/items/042c633a05df48fa8561f245fccdd750/info/thumbnail/thumbnail.png?w=400)
 
-Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. Imrpoving previously manual process, I automated our work to submit our fiber infrastructure into [Misutility](https://www.missutility.net). [More details]({{ '/portfolio/professional_experience_examples/integration-of-publicly-available-housing-data/' | relative_url }})
+Improving previously manual process, I automated our work to submit our fiber infrastructure into [Misutility](https://www.missutility.net). Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. [More details]({{ '/portfolio/professional_experience_examples/integration-of-publicly-available-housing-data/' | relative_url }})
 
 ## Development of Metadata Standards and Best Practices
 ### Purpose: Create GIS metadata standards to improve data quality and project consistency.

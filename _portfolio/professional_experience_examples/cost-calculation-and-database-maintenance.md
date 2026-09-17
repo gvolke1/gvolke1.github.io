@@ -15,7 +15,7 @@ I supported fiber network delivery at ThinkBig Networks through cost calculation
 
 I calculated costs associated with materials, engineering, and construction phases of fiber projects. Those estimates supported evaluation of the resources required for a build. The work required attention to the different parts of delivery so the project team could consider costs alongside the network plans and construction activity.
 
-I also maintained database information covering construction updates, splicing, customer records, and equipment details. These records represented different aspects of the same infrastructure system. Keeping them usable supported the team's ability to follow project progress and understand the network being planned, installed, and maintained.
+I also maintained database information covering construction updates, splicing, customer records, and equipment details. These records represented different aspects of the same infrastructure system, supporting the team's ability to follow project progress and understand the network being planned, installed, and maintained.
 
 The connection between cost information and asset information was a practical feature of the job. A network project involves both physical assets and the records used to describe them. My responsibilities placed me at that intersection, working with the GIS data and the project information that supported planning and management decisions.
 
