@@ -8,6 +8,8 @@ header:
   teaser: "peoria_landing_page.png"
 ---
  <!--when I have time, I want to review all the files I have on my role in Peoria thoroughly, and include more image breaks for better visuals here. Looking at things like "NLT Accomplishments", and "Peoria Fire Optimizer system overview, City of Peoria Firew Department optimization project, Peoria Project README, Peoria Plots & GIS Layer Information, etc.-->
+![Peoria IMPACT FEMS Optimization Platform]({{ '/images/peoria_landing_page.png' | relative_url }})
+
 ## Project Overview
 The City of Peoria Fire-Medical Department Optimization Project is a data-driven decision-support platform for fire and EMS planning. The platform brings together Computer-Aided Dispatch (CAD) incident records, fire station and unit locations, road and infrastructure data, demographic context, and interactive geospatial analysis in one web-based dashboard.
 
