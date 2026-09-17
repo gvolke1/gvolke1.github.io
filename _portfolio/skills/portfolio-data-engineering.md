@@ -11,12 +11,6 @@ skill_names:
 
 I develop workflows that retrieve, clean, transform, and connect data from APIs, GIS services, and other sources.
 
-### Capabilities
-- API and service integration
-- Data extraction, cleaning, and transformation
-- GeoJSON and spatial-data preparation
-- ETL workflows and schema organization
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

@@ -11,12 +11,6 @@ skill_names:
 
 I build interactive web maps and application services that make geographic and operational information easier to access.
 
-### Capabilities
-- JavaScript, HTML, CSS, and Leaflet-based interfaces
-- Front-end data integration for GIS and operational data
-- Web mapping and application service workflows
-- Project-based geospatial product delivery
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

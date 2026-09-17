@@ -11,12 +11,6 @@ skill_names:
 
 I prepare geographic and operational data to support understanding of hazards, emergency demand, infrastructure, and population characteristics.
 
-### Capabilities
-- CAD and incident analysis
-- Hazard and exposure mapping
-- Travel-time and resource coverage
-- Demand and risk assessment
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

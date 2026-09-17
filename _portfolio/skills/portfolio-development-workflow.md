@@ -9,13 +9,7 @@ skill_names:
 
 [Return to all portfolio skills]({{ '/portfolio/' | relative_url }})
 
-I organize, test, and share code so teammates can review the work and continue developing it.
-
-### Capabilities
-- GitHub collaboration
-- API testing and validation
-- Code review and documentation
-- Python and environment management
+I organize, test, and share my work through GitHub so teammates can review it, deploy it, and continue developing it.
 
 {% assign project_count = 0 %}
 <ul>

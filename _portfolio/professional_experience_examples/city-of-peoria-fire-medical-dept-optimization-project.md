@@ -6,6 +6,7 @@ layout: archive
 author_profile: true
 skills:
   - "Web Development"
+  - "Front End Development"
   - "Cartography and Data Visualization"
   - "GIS and Spatial Analysis"
   - "Data Engineering and API Integration"
@@ -32,6 +33,8 @@ I was the project's geospatial lead, helping turn CAD, GIS, and demographic data
 I also helped define the map content and visual language used throughout the dashboard. This included mapping demand across Peoria and areas outside the city limits, creating unique-call and dispatch-unit-volume views at H3 resolution 8, identifying top locations for all calls as well as fire and medical calls, and producing fire and medical hotspot layers. I created temporal views for selected days, including Thursday and Friday examples, and prepared maps that demonstrate the dashboard's functionality.
 
 In addition, I added contextual layers from Peoria ArcGIS REST services, including hospitals and other infrastructure, and helped confirm that each layer's symbology communicated its meaning clearly. I selected and documented a blue sequential color ramp for the EMS-oriented density layers, using color-theory principles to create a calm, ordered visual scale while preserving distinctions between demand, reference, and hotspot layers.
+
+I used GitHub to organize and share my project materials, documentation, and development work for review and deployment by the rest of the team.
 
 ## Web Development
 I contributed to the design and content of an interactive web GIS dashboard that combines mapping, filters, layer controls, selection tools, charts, and simulation results. The interface supports exploration of demand by location, call category, and time period, while keeping analytical layers and reference layers organized for repeated operational use.

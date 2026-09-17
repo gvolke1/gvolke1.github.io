@@ -11,12 +11,6 @@ skill_names:
 
 I organize and maintain database and GIS records, checking that their structure and attributes support the work they are intended to inform.
 
-### Capabilities
-- PostgreSQL and SQL workflows
-- GIS database maintenance
-- Attribute and schema checks
-- Metadata and record consistency
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

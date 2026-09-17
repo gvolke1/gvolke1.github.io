@@ -11,12 +11,6 @@ skill_names:
 
 I analyze community information and communicate project findings through maps, presentations, public materials, and outreach.
 
-### Capabilities
-- Census and demographic analysis
-- Survey mapping
-- Public meeting support
-- Academic and stakeholder outreach
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

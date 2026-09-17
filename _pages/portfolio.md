@@ -34,6 +34,11 @@ The link uses the project's permalink through `post.url`; no manual project link
 
 ---
 
+## Front End Development
+[View front end development projects]({{ '/portfolio/front-end-development/' | relative_url }})
+
+---
+
 ## Cartography and Data Visualization
 [View cartography projects]({{ '/portfolio/cartography/' | relative_url }})
 

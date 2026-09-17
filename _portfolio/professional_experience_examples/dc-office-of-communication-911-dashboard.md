@@ -5,7 +5,7 @@ permalink: "/portfolio/professional_experience_examples/dc-office-of-communicati
 author_profile: true
 excerpt: "Integrated dispatch and vehicle telemetry feeds into PostGIS, adding quality checks, SQL views, and reporting for operational monitoring."
 project_employer: "New Light Technologies"
-skills: ["Data Engineering and API Integration", "Databases and Data Quality", "Web Development", "Application Prototyping, Dashboards and Business Intelligence", "Automation and Workflow Improvement", "Emergency Management and Public Safety Analytics"]
+skills: ["Data Engineering and API Integration", "Databases and Data Quality", "Web Development", "Application Prototyping, Dashboards and Business Intelligence", "Automation and Workflow Improvement", "Development Workflow and Collaboration", "Emergency Management and Public Safety Analytics"]
 ---
 
 **Organization:** New Light Technologies  
@@ -17,4 +17,4 @@ I developed a JavaScript and Node.js API that loaded JSON data into memory, save
 
 For database storage, I developed a separate PostgreSQL module and an API endpoint that saved cached records to the database. The table stored JSON data alongside its source and timestamp. I tested the endpoints locally to verify that the application could retrieve cached data and save it to PostgreSQL.
 
-Another part of my work involved preparing information for map display. I wrote code to convert JSON into GeoJSON, worked with router data from the AMM API, and matched data attributes to the frontend’s requirements. I coordinated this work through GitHub and collaborated with the frontend developer to make the data service straightforward to connect to the interface.
+Another part of my work involved preparing information for map display. I wrote code to convert JSON into GeoJSON, worked with router data from the AMM API, and matched data attributes to the frontend’s requirements. I used GitHub to share this work for review and deployment by the rest of the team, while collaborating with the frontend developer to make the data service straightforward to connect to the interface.

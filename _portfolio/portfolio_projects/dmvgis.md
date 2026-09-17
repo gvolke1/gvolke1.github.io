@@ -3,6 +3,13 @@ layout: archive
 title: "DMV GIS Day: Website Development, Resource Mapping, and Outreach"
 permalink: /portfolio/portfolio_projects/dmvgis/
 author_profile: true
+skills:
+	- "Web Development"
+	- "Front End Development"
+	- "Cartography and Data Visualization"
+	- "Development Workflow and Collaboration"
+	- "Demographic Analysis and Public Engagement"
+	- "Project Coordination and Stakeholder Communication"
 ---
 
 **DMV GIS Day: Website Development, Resource Mapping, and Outreach**
@@ -13,7 +20,7 @@ I contributed to the DMV GIS initiative through website development, interactive
 
 Alongside development, I supported academic outreach, sponsorship coordination, and event planning. This involved identifying relevant institutions and helping connect the initiative with people who could contribute to and benefit from the regional GIS network.
 
-I developed resource and events pages and created an interactive resource map using HTML, CSS, JavaScript, and Leaflet. I compiled information about academic GIS programs and gathered geographic boundaries for the map, including through R and the tigris package. I also worked with layers maintained through GitHub.
+I developed resource and events pages and created an interactive resource map using HTML, CSS, JavaScript, and Leaflet. I compiled information about academic GIS programs and gathered geographic boundaries for the map, including through R and the tigris package. I used GitHub-managed layers to organize and share my map data for review and continued development.
 
 The map organized regional resources geographically, giving visitors another way to explore the information presented on the website. I presented the data-source map at the Baltimore Data Day conference, explaining the resource to a broader audience.
 

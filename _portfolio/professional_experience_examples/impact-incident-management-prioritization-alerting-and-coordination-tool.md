@@ -5,7 +5,7 @@ permalink: "/portfolio/professional_experience_examples/impact-incident-manageme
 author_profile: true
 excerpt: "Built recurring hazard-data workflows and corrected a Census-to-H3 assignment problem affecting population exposure estimates."
 project_employer: "New Light Technologies"
-skills: ["Data Engineering and API Integration", "Databases and Data Quality", "GIS and Spatial Analysis", "Automation and Workflow Improvement", "Emergency Management and Public Safety Analytics"]
+skills: ["Front End Development", "Data Engineering and API Integration", "Databases and Data Quality", "GIS and Spatial Analysis", "Automation and Workflow Improvement", "Development Workflow and Collaboration", "Emergency Management and Public Safety Analytics"]
 ---
 
 **Organization:** New Light Technologies  
@@ -22,5 +22,7 @@ I replaced the original join approach with a revised method for assigning popula
 I also developed and troubleshot automated workflows for observed and forecast flood and wildfire data. This included working with National Interagency Fire Center resources, National Water Model datasets, and MODIS and VIIRS fire observations. I checked returned GeoJSON, geographic coverage, and record limits, and resolved retrieval problems associated with larger datasets.
 
 To support the broader integration process of census data and mapping that to our webmap, I built tools to retrieve state and county boundaries automatically, derived state identifiers from county FIPS codes, and helped define a consistent structure for H3 output files.
+
+I used GitHub to organize and share my data-engineering workflows and supporting code for review and deployment by the rest of the team.
 
 My contribution helped connect live and forecast hazard information to population characteristics in a way that emergency-management users could explore through the platform.

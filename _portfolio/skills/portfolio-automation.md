@@ -11,12 +11,6 @@ skill_names:
 
 I improve recurring processes by replacing repetitive manual steps with reusable scripts, GIS uploads, and standardized workflows.
 
-### Capabilities
-- Process redesign
-- GIS upload automation
-- Map production automation
-- Repeatable geoprocessing
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

@@ -5,7 +5,7 @@ permalink: "/portfolio/professional_experience_examples/us-virgin-islands-addres
 author_profile: true
 excerpt: "Integrated authoritative ArcGIS services into a lightweight Leaflet application supporting access to mapping and street-addressing information."
 project_employer: "New Light Technologies"
-skills: ["Web Development", "Data Engineering and API Integration", "GIS and Spatial Analysis", "Infrastructure and Asset Management"]
+skills: ["Web Development", "Front End Development", "Data Engineering and API Integration", "GIS and Spatial Analysis", "Infrastructure and Asset Management"]
 ---
 
 **Organization:** New Light Technologies  

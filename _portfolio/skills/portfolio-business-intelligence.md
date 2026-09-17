@@ -12,12 +12,6 @@ skill_names:
 
 I help turn operational needs into dashboard components, organizational charts, and workflow prototypes that teams can develop and use.
 
-### Capabilities
-- Dashboards and prototypes
-- Power BI and Power Apps
-- Synthetic data and testing
-- Interface and workflow design
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

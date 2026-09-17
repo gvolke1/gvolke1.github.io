@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Environmental Planning and Review Projects"
-permalink: /portfolio/environmental-planning/
+title: "Front End Development Projects"
+permalink: /portfolio/front-end-development/
 author_profile: true
 skill_names:
-  - "Environmental Planning and Review"
+  - "Front End Development"
 ---
 
 [Return to all portfolio skills]({{ '/portfolio/' | relative_url }})
 
-I combine geographic research, resource screening, and written analysis to support environmental review and project planning.
+I build and integrate browser-based interfaces that make project data and functionality accessible to users.
 
 {% assign project_count = 0 %}
 <ul>

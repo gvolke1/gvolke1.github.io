@@ -11,12 +11,6 @@ skill_names:
 
 I document methods, requirements, and procedures so colleagues can understand, review, and repeat the work.
 
-### Capabilities
-- Workflow documentation
-- Metadata and method instructions
-- Environmental reporting
-- Handoff and training materials
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

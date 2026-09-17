@@ -11,12 +11,6 @@ skill_names:
 
 I coordinate technical work with developers, agency staff, service providers, and other stakeholders to resolve questions and move projects forward.
 
-### Capabilities
-- Stakeholder communication
-- Requirements clarification
-- Workflow coordination
-- Technical handoffs
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

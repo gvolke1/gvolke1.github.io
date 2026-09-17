@@ -12,12 +12,6 @@ skill_names:
 
 I design maps and visualizations that explain geographic patterns, support comparisons, and respond to questions from project stakeholders.
 
-### Capabilities
-- Thematic mapping and statistical classification
-- Symbology, dashboards, and map-layer organization
-- Construction mapbooks and public-facing map products
-- Visual communication for decision support and stakeholder review
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

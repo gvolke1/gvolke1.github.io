@@ -11,12 +11,6 @@ skill_names:
 
 I maintain geographic and operational information that supports infrastructure planning, construction, and ongoing updates.
 
-### Capabilities
-- Fiber and utility mapping
-- Construction and asset records
-- Cost and inspection support
-- Operational GIS updates
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}

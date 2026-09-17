@@ -11,12 +11,6 @@ skill_names:
 
 I prepare and analyze geographic data, troubleshoot spatial relationships, and select methods that fit the question and available information.
 
-### Capabilities
-- QGIS, ArcGIS, GeoPandas, and geocoding workflows
-- Spatial joins, H3 indexing, and travel-time isochrones
-- Parcel and infrastructure analysis for planning decisions
-- Data troubleshooting and method selection for project needs
-
 {% assign project_count = 0 %}
 <ul>
 {% for post in site.portfolio %}
