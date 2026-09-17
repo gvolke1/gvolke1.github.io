@@ -1,7 +1,9 @@
 ---
+layout: archive
 title: "Analysis of Census Tract Population Change and Bus Stops in Baltimore City"
 excerpt: "<br/><img src='/portfolio/images/Balt City Pop Change.png'>"
 permalink: /portfolio/portfolio_projects/ges687-finalproj/
+author_profile: true
 ---
 
 <h2>Project Overview</h2>

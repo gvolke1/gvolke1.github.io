@@ -1,13 +1,9 @@
 ---
 title: "City of Peoria Fire-Medical Dept. Optimization Project"
 collection: portfolio
-permalink: /portfolio/professional_experience_examples/peoria/
-
-skill_types:
-  - web-development
-  - cartography
-  - spatial-analysis
-
+permalink: "/portfolio/professional_experience_examples/city-of-peoria-fire-medical-dept-optimization-project/"
+layout: archive
+author_profile: true
 header:
   teaser: "peoria_landing_page.png"
 ---

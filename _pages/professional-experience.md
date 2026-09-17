@@ -8,41 +8,42 @@ redirect_from:
   - /resume
 ---
 Below are selected projects from my professional experience that demonstrate my work. 
+<!-- These pages are rough drafts in "professional experience examples folder". I want to go through them later myself.-->
 # New Light Technologies - GIS Developer, Coordinator and Analyst
 ## City of Peoria Fire-Medical Dept. Optimization Project
 ### Purpose: Improve fire and EMS response times, staffing, and resource allocation.
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://i.ytimg.com/vi/pJQOW7acDvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARYSOJTvmQnpFKu9Ds8_RPrwJqCQ" alt="Peoria Fire-Medical Optimization" />
  
-As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, [H3 hexagons](https://h3geo.org/docs/), ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. [More details]({{ '/portfolio/professional_experience_examples/peoria/' | relative_url }})
+As the project’s geospatial lead, I analyzed CAD incident records, station staffing, response times, and network travel-time isochrones to improve EMS response times and evaluate station and deployment scenarios. Using GIS networking analysis, [H3 hexagons](https://h3geo.org/docs/), ArcGIS services, statistical classification, and interactive mapping, I helped create a decision-support platform for improving emergency-response. [More details]({{ '/portfolio/professional_experience_examples/city-of-peoria-fire-medical-dept-optimization-project/' | relative_url }})
 
 ## IMPACT (Incident Management, Prioritization, Alerting and Coordination Tool)
 ### Purpose: Help emergency managers identify natural hazards, understand their impacts, and prioritize response.
 
 <img class="project-image" src="https://newlighttechnologies.com/hs-fs/hubfs/Devices-1.png?width=700&height=366&name=Devices-1.png" alt="IMPACT Data Infrastructure" />
 
-I helped develop IMPACT’s geospatial data infrastructure to provide real-time alerts on natural disasters for mitigation, response and recovery by local EMS. I built Python ETL workflows that integrate live and forecast hazard data, with indicators of where vulnerable populations & critical infrastructure are located using [H3-based risk analytics](https://h3geo.org/docs/). I improved the method used to assign Census populations to hexagonal cells, increasing the accuracy of exposure estimates for eight at-risk population groups by more than 20 percent. [More details] <!--(#)Portfolio link details later-->
+I helped develop IMPACT’s geospatial data infrastructure to provide real-time alerts on natural disasters for mitigation, response and recovery by local EMS. I built Python ETL workflows that integrate live and forecast hazard data, with indicators of where vulnerable populations & critical infrastructure are located using [H3-based risk analytics](https://h3geo.org/docs/). I improved the method used to assign Census populations to hexagonal cells, increasing the accuracy of exposure estimates for eight at-risk population groups by more than 20 percent. [More details]({{ '/portfolio/professional_experience_examples/impact-incident-management-prioritization-alerting-and-coordination-tool/' | relative_url }})
 
 ## DC Office of Communication 911 Dashboard
 ### Purpose: Give 911 supervisors real-time visibility into operations management.
 
 <img class="project-image" style="max-width:210px; width:100%; height:210px; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoqpEgJUys3wRyBlIDlGpRVTDiuBSBuyDdbRLKxcrFQ&s=10" alt="DC OUC 911 Dashboard" />
 
-I helped build the dashboard’s data backbone by developing ETL workflows that combined CAD events with mobile-router telemetry from secured APIs and Sierra Wireless gateways. Using JavaScript, Node.js, PostgreSQL/PostGIS, SQL, GeoJSON, Leaflet, and Tabulator, I implemented quality checks, deduplication, spatial indexing, and data services that replaced manual log reviews with faster operational monitoring. [More details]<!--(#)Portfolio link details later-->
+I helped build the dashboard’s data backbone by developing ETL workflows that combined CAD events with mobile-router telemetry from secured APIs and Sierra Wireless gateways. Using JavaScript, Node.js, PostgreSQL/PostGIS, SQL, GeoJSON, Leaflet, and Tabulator, I implemented quality checks, deduplication, spatial indexing, and data services that replaced manual log reviews with faster operational monitoring. [More details]({{ '/portfolio/professional_experience_examples/dc-office-of-communication-911-dashboard/' | relative_url }})
 
 ## FEMA Risk MAP Organizational and Staffing Tool
 ### Purpose: Help FEMA understand reporting relationships and make informed staffing, capacity, and procurement decisions.
 
 <img class="project-image" src="https://www.sandiego.gov/sites/default/files/styles/600px_width/public/2026-02/fema-logo.png?itok=XhkllJ0e" alt="FEMA Risk MAP" />
 
-I developed an interactive Power BI organizational chart that allowed [FEMA Risk Map](https://www.fema.gov/flood-maps/tools-resources/risk-map) users to see who reported to whom and filter personnel by division, branch, office location, and other organizational attributes. I used produced step-by-step documentation so the tool could be refreshed by non-technical FEMA managers when employees, vacancies, or reporting relationships changed. [More details]<!--(#)Portfolio link details later-->
+I developed an interactive Power BI organizational chart that allowed [FEMA Risk Map](https://www.fema.gov/flood-maps/tools-resources/risk-map) users to see who reported to whom and filter personnel by division, branch, office location, and other organizational attributes. I used produced step-by-step documentation so the tool could be refreshed by non-technical FEMA managers when employees, vacancies, or reporting relationships changed. [More details]({{ '/portfolio/professional_experience_examples/fema-risk-map-organizational-and-staffing-tool/' | relative_url }})
 
 ## US Virgin Islands Address Standardization
 ### Purpose: Modernize access to authoritative mapping and street-addressing information.
 
 <img class="project-image" style="max-width:210px; width:100%; height:210px; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiEfeMCy-bRdigecR6IaUpeOdKL8khVeBXRaTv5gW4g&s=10" alt="US Virgin Islands Address Standardization" />
 
-As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. [More details]<!--(#)Portfolio link details later-->
+As the project’s web developer, I identified and integrated authoritative ArcGIS Feature Services into a lightweight interactive mapping application for field personnel to support confirming addresses for access to government services. Using JavaScript, Leaflet, HTML, CSS, and ArcGIS REST services, I improved access to critical geospatial layers and helped reduce reliance on more expensive proprietary mapping software. [More details]({{ '/portfolio/professional_experience_examples/us-virgin-islands-address-standardization/' | relative_url }})
 
 # Blackwater Environmental Group - Environmental Planner
 ## Bay Crossing Study
@@ -50,36 +51,36 @@ As the project’s web developer, I identified and integrated authoritative ArcG
 
 ![Bay Crossing Study Project Map](https://content.govdelivery.com/attachments/fancy_images/MDDOT/2023/06/7761168/4798573/baycrossing-tier-2-map_crop.jpg)
 
-The Chesapeake Bay Crossing Study: Tier 2 NEPA (Tier 2 Study) is a National Environmental Policy Act (NEPA) study that analyzed alternatives to provide congestion relief and improve travel across the Chesapeake Bay. I managed community engagement efforts by organizing public engagement events. I conducted detailed demographic research for each Census Tract and Block Group within the study area to gather comprehensive info to meet federal requirements. I developed a bridge survey data form, and interactive maps to visualize survey results and facilitate data-driven discussions and strategic planning. [More details]<!--(#)Portfolio link details later-->
+The Chesapeake Bay Crossing Study: Tier 2 NEPA (Tier 2 Study) is a National Environmental Policy Act (NEPA) study that analyzed alternatives to provide congestion relief and improve travel across the Chesapeake Bay. I managed community engagement efforts by organizing public engagement events. I conducted detailed demographic research for each Census Tract and Block Group within the study area to gather comprehensive info to meet federal requirements. I developed a bridge survey data form, and interactive maps to visualize survey results and facilitate data-driven discussions and strategic planning. [More details]({{ '/portfolio/professional_experience_examples/bay-crossing-study/' | relative_url }})
 
 ## Maryland Transportation Authority – Key Bridge Replacement Project
 ### Purpose: Coordinated closely with multiple government agencies, stakeholders, and regulatory bodies for Key Bridge Replacement
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://keybridgerebuild.com/wp-content/uploads/2025/10/KBR_website_logo_notag.png" alt="Key Bridge Replacement Project" />
 
-As an environmental planner for the high-profile [Key Bridge Replacement Project](https://keybridgerebuild.com/), Griff led the project’s correspondence and communications strategy, managing relationships with project sponsors and regulatory officials to support timely compliance with NEPA, Section 106, and Section 4(f). By standardizing communication schedules and procedures, he improved the efficiency and clarity of project correspondence between agencies during an unprecedented event that received national attention. His work helped the project meet regulatory milestones on an expedited timeline while reducing the risk of delays.
+As an environmental planner for the high-profile [Key Bridge Replacement Project](https://keybridgerebuild.com/), Griff led the project’s correspondence and communications strategy, managing relationships with project sponsors and regulatory officials to support timely compliance with NEPA, Section 106, and Section 4(f). By standardizing communication schedules and procedures, he improved the efficiency and clarity of project correspondence between agencies during an unprecedented event that received national attention. His work helped the project meet regulatory milestones on an expedited timeline while reducing the risk of delays. [More details]({{ '/portfolio/professional_experience_examples/maryland-transportation-authority-key-bridge-replacement-project/' | relative_url }})
 
 ## M-NCPPC Safe Streets for All (SS4A)
 ### Purpose: Assess environmental and regulatory conditions for pedestrian safety improvements.
 
 <img class="project-image" style="max-width:210px; width:100%; height:210px; display:block; margin:1rem 0;" src="https://mocofamiliesforsafestreets.org/wp-content/uploads/2021/11/MoCoFSSsmall.png" alt="Safe Streets for All" />
 
-The Safe Streets for All (SS4A) initiative by Montgomery Parks aimed to enhance pedestrian safety and accessibility across various parks and recreation facilities in Maryland. I contributed extensively to the project by conducting detailed desktop reviews of natural and environmental resources across 23 project areas. This involved evaluating sensitive species, waterways, and historical properties to ensure compliance with environmental regulations such as [Section 106 of the National Historic Preservation Act](https://www.achp.gov/protecting-historic-properties/section-106-process/introduction-section-106) and [Section 4(f)](http://environment.fhwa.dot.gov/env_topics/4f_tutorial/overview.aspx?h=e). My work identified critical environmental considerations that guided decision-making. [More details]<!--(#)Portfolio link details later-->
+The Safe Streets for All (SS4A) initiative by Montgomery Parks aimed to enhance pedestrian safety and accessibility across various parks and recreation facilities in Maryland. I contributed extensively to the project by conducting detailed desktop reviews of natural and environmental resources across 23 project areas. This involved evaluating sensitive species, waterways, and historical properties to ensure compliance with environmental regulations such as [Section 106 of the National Historic Preservation Act](https://www.achp.gov/protecting-historic-properties/section-106-process/introduction-section-106) and [Section 4(f)](http://environment.fhwa.dot.gov/env_topics/4f_tutorial/overview.aspx?h=e). My work identified critical environmental considerations that guided decision-making. [More details]({{ '/portfolio/professional_experience_examples/m-ncppc-safe-streets-for-all-ss4a/' | relative_url }})
 
 ## MDOT State Highway Administration (SHA)
 ### Purpose: Support MDOT SHA grant administration, environmental review, and transportation infrastructure projects.
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_72Ch2Tj-MvbdjAxLl6yXR3-ZS0JyMamNq3miajAqeHuvEv-S02EP-PO&s=10" alt="Recreational Trails Program" />
 
-Within the Maryland Department of Transportation (MDOT) State Highway Administration (SHA), I provided critical support to the [Recreational Trails Program](https://roads.maryland.gov/mdotsha/pages/index.aspx?PageId=98), focusing on conducting bridge and trail inspections. My responsibilities included identifying and addressing infrastructure issues, managing the Transportation Alternatives Program (TAP) grants, reviewing invoices, and coordinating with project sponsors to track project progress and ensure efficient resource allocation. [More details]<!--(#)Portfolio link details later-->
+Within the Maryland Department of Transportation (MDOT) State Highway Administration (SHA), I provided critical support to the [Recreational Trails Program](https://roads.maryland.gov/mdotsha/pages/index.aspx?PageId=98), focusing on conducting bridge and trail inspections. My responsibilities included identifying and addressing infrastructure issues, managing the Transportation Alternatives Program (TAP) grants, reviewing invoices, and coordinating with project sponsors to track project progress and ensure efficient resource allocation. [More details]({{ '/portfolio/professional_experience_examples/mdot-sha-recreational-trails-program/' | relative_url }})
 
 ### Programmatic Categorical Exclusions (PCEs) and Minor PCEs for SHA Road and Bridge Projects in Districts 3, 4 & 6
 
-As part of SHA's environmental review process, I oversaw [Programmatic Categorical Exclusions (PCEs)](https://www.environment.fhwa.dot.gov/nepa/programmatic_ce.aspx?AspxAutoDetectCookieSupport=1)for road maintenance and bridge improvement projects across multiple districts. This involved collaborating closely with agencies such as the US Fish & Wildlife Service to assess environmental impacts on endangered species and habitats. Using advanced GIS tools, I generated comprehensive shapefiles and data to evaluate project areas for natural, cultural, and scenic resources. My contributions ensured that project designs met regulatory requirements and aligned with state conservation goals. [More details]<!--(#)Portfolio link details later-->
+As part of SHA's environmental review process, I oversaw [Programmatic Categorical Exclusions (PCEs)](https://www.environment.fhwa.dot.gov/nepa/programmatic_ce.aspx?AspxAutoDetectCookieSupport=1)for road maintenance and bridge improvement projects across multiple districts. This involved collaborating closely with agencies such as the US Fish & Wildlife Service to assess environmental impacts on endangered species and habitats. Using advanced GIS tools, I generated comprehensive shapefiles and data to evaluate project areas for natural, cultural, and scenic resources. My contributions ensured that project designs met regulatory requirements and aligned with state conservation goals. [More details]({{ '/portfolio/professional_experience_examples/sha-programmatic-categorical-exclusions-and-environmental-review/' | relative_url }})
 
 ### I-81 at Showalter Rd Categorical Exclusion
 
-For the I-81 corridor expansion project at Showalter Rd, I played a pivotal role in developing a comprehensive Categorical Exclusion (CE) document. This involved conducting demographic analyses using Environmental Justice (EJ) screening tools to identify potential impacts on vulnerable populations. I collaborated closely with stakeholders to outline project backgrounds, impact assessments, and mitigation strategies. I facilitated public meeting materials to enhance community engagement and transparency throughout the project lifecycle, addressing equity concerns and adhering to federal guidelines. [More details]<!--(#)Portfolio link details later-->
+For the I-81 corridor expansion project at Showalter Rd, I played a pivotal role in developing a comprehensive Categorical Exclusion (CE) document. This involved conducting demographic analyses using Environmental Justice (EJ) screening tools to identify potential impacts on vulnerable populations. I collaborated closely with stakeholders to outline project backgrounds, impact assessments, and mitigation strategies. I facilitated public meeting materials to enhance community engagement and transparency throughout the project lifecycle, addressing equity concerns and adhering to federal guidelines. [More details]({{ '/portfolio/professional_experience_examples/i-81-at-showalter-road-categorical-exclusion/' | relative_url }})
 
 <!--### Glenville Rd Over Mill Brook Bridge Replacement
 
@@ -91,28 +92,28 @@ I led the preparation of a detailed Categorical Exclusion (CE) for the replaceme
 
 <img class="project-image" style="max-width:420px; width:100%; height:auto; display:block; margin:1rem 0;" src="https://images.ispreports.org/map/internet-provider-availability/thinkbig-networks-overall-availability.webp" alt="ThinkBig Networks Availability Map" />
 
-At ThinkBig Networks ISP, I was responsible for engineering a comprehensive fiber optic network across Charles, Queen Anne's, Harford, and Kent counties. This involved detailed planning, execution of fiber builds. I automated the previously manually creation of As-Built and construction mapbooks essential for accurate network deployment and maintenance. [More details]<!--(#)Portfolio link details later-->
+At ThinkBig Networks ISP, I was responsible for engineering a comprehensive fiber optic network across Charles, Queen Anne's, Harford, and Kent counties. This involved detailed planning, execution of fiber builds. I automated the previously manually creation of As-Built and construction mapbooks essential for accurate network deployment and maintenance. [More details]({{ '/portfolio/professional_experience_examples/engineering-fiber-optic-network-in-maryland/' | relative_url }})
 
 ## Cost Calculation and Database Maintenance
 ### Purpose: Support project cost analysis and maintain GIS asset tracking for network deployments.
 
-I conducted cost calculations for materials, engineering, and construction phases of fiber builds, ensuring project feasibility and cost-effectiveness. Additionally, I maintained a comprehensive database for construction updates, splicing, customer information, and equipment details, critical for project tracking and management. My meticulous approach to database management supported real-time project monitoring and informed decision-making processes. [More details]<!--(#)Portfolio link details later-->
+I conducted cost calculations for materials, engineering, and construction phases of fiber builds, ensuring project feasibility and cost-effectiveness. Additionally, I maintained a comprehensive database for construction updates, splicing, customer information, and equipment details, critical for project tracking and management. My meticulous approach to database management supported real-time project monitoring and informed decision-making processes. [More details]({{ '/portfolio/professional_experience_examples/cost-calculation-and-database-maintenance/' | relative_url }})
 
 ## Project Management and Advanced Geoprocessing
 ### Purpose: Oversee GIS-enabled project delivery and advanced spatial analysis for fiber operations.
 
-I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessing techniques to analyze and process spatial data effectively. I developed creative solutions that met project needs while saving both time and resources. [More details]<!--(#)Portfolio link details later-->
+I managed multiple projects at ThinkBig Networks, utilizing advanced geoprocessing techniques to analyze and process spatial data effectively. I developed creative solutions that met project needs while saving both time and resources. [More details]({{ '/portfolio/professional_experience_examples/project-management-and-advanced-geoprocessing/' | relative_url }})
 
 ## Integration of Publicly Available Housing Data
 ### Purpose: Incorporate public cadastral and spatial data to improve fiber planning accuracy.
 ![ThinkBig Networks Data Integration](https://undefined.maps.arcgis.com/sharing/rest/content/items/042c633a05df48fa8561f245fccdd750/info/thumbnail/thumbnail.png?w=400)
 
-Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. This data integration facilitated accurate planning and execution, considering all relevant factors in network development. [More details]<!--(#)Portfolio link details later-->
+Integrating publicly available Maryland cadastral data into project planning was integral to optimizing network expansions. Imrpoving previously manual process, I automated our work to submit our fiber infrastructure into [Misutility](https://www.missutility.net). [More details]({{ '/portfolio/professional_experience_examples/integration-of-publicly-available-housing-data/' | relative_url }})
 
 ## Development of Metadata Standards and Best Practices
 ### Purpose: Create GIS metadata standards to improve data quality and project consistency.
 
-To maintain data integrity and streamline project execution, I established internal metadata standards for network points and developed best practices for GIS data management. This standardization ensured consistency and efficiency across all project phases. [More details]<!--(#)Portfolio link details later-->
+To maintain data integrity and streamline project execution, I established internal metadata standards for network points and developed best practices for GIS data management. This standardization ensured consistency and efficiency across all project phases. [More details]({{ '/portfolio/professional_experience_examples/development-of-metadata-standards-and-best-practices/' | relative_url }})
 
 <!--# WSP - Fare Collections Specialist Intern
 ## Evaluation of Baltimore City's Bus Route Locations & Commuter Demographic Info
@@ -166,6 +167,7 @@ I gained expertise in the Maryland Transit Administration's fare collection syst
 
 I participated in orientations and seminars focused on enhancing workplace skills, including communication, teamwork, and project management. These sessions contributed to my professional development and preparedness for future roles. By fostering skill development, we cultivated a collaborative work environment that promoted innovation and excellence in transit service delivery, driving organizational success and employee engagement. [More details](#)Portfolio link details later-->
 
+<!--
 # Skills
 ## Programming Languages and Web Development
 
@@ -214,5 +216,6 @@ Emergency Management, Emergency Planning, Computer-Aided Dispatch Data, Radio-Sy
 # Certifications
 - National Highway Institute Certificate - Intro to NEPA and Transportation Decision Making
 - National Highway Institute Certificate - Fundamentals of Environmental Justice (EJ)
-- ESRI Certifications - Using Raster Data for Site Selection, Working with Coordinate Systems in ArcGIS, Building Models for GIS Analysis
+- ESRI Certifications - Using Raster Data for Site Selection, Working with Coordinate Systems in ArcGIS, Building Models for GIS Analysis 
+- -->
 
