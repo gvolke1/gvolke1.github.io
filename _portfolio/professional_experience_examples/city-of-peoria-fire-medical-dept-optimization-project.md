@@ -4,6 +4,15 @@ collection: portfolio
 permalink: "/portfolio/professional_experience_examples/city-of-peoria-fire-medical-dept-optimization-project/"
 layout: archive
 author_profile: true
+skills:
+  - "Web Development"
+  - "Cartography and Data Visualization"
+  - "GIS and Spatial Analysis"
+  - "Data Engineering and API Integration"
+  - "Development Workflow and Collaboration"
+  - "Application Prototyping, Dashboards and Business Intelligence"
+  - "Project Coordination and Stakeholder Communication"
+  - "Emergency Management and Public Safety Analytics"
 header:
   teaser: "peoria_landing_page.png"
 ---
@@ -18,7 +27,7 @@ The project helps users examine where and when demand occurs, understand respons
 The resulting platform is intended to help department staff and city decision-makers evaluate station placement, resource allocation, staffing, and future demand using a consistent set of maps, measures, and documented interpretations.
 
 ## My Role
-I supported the project as a geospatial analyst and cartographic contributor, helping turn CAD, GIS, and demographic data into an understandable planning interface. I confirmed fire station locations, completed an initial geocoding pass for incidents, developed a heatmap of geocoded incidents with station locations, and selected demographic variables relevant to fire and EMS planning for Maricopa and Yavapai counties.
+I was the project's geospatial lead, helping turn CAD, GIS, and demographic data into an understandable planning interface. I confirmed fire station locations, completed an initial geocoding pass for incidents, developed a heatmap of geocoded incidents with station locations, and selected demographic variables relevant to fire and EMS planning for Maricopa and Yavapai counties.
 
 I also helped define the map content and visual language used throughout the dashboard. This included mapping demand across Peoria and areas outside the city limits, creating unique-call and dispatch-unit-volume views at H3 resolution 8, identifying top locations for all calls as well as fire and medical calls, and producing fire and medical hotspot layers. I created temporal views for selected days, including Thursday and Friday examples, and prepared maps that demonstrate the dashboard's functionality.
 
