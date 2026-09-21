@@ -15,6 +15,18 @@ I helped develop the geospatial data infrastructure for IMPACT, New Light Techno
 
 I identified and categorized hazard resources, including flood zones, wildfire perimeters, and weather forecast data. These sources differed in their geographic coverage and update schedules. I developed Python extract-transform-load workflows to bring them into the platform's analysis process, with hourly and daily ingestion routines matched to the relevant feeds. The purpose was to make updated information available through a repeatable process that supported monitoring and planning.
 
+## Video Demonstration
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+	<iframe
+		src="https://www.youtube-nocookie.com/embed/QgHPpo_STQs"
+		title="IMPACT hazard data and population exposure demonstration"
+		style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		referrerpolicy="strict-origin-when-cross-origin"
+		allowfullscreen>
+	</iframe>
+</div>
+
 A significant troubleshooting issue emerged when I examined how Census population data were being assigned to the platform's H3 hexagonal grid. Census tracts could extend across multiple cells, so the geographic relationship required more attention than the original polygon-join approach provided. The shape of the reporting units and the shape of the analytical grid did not line up neatly. That mismatch affected the exposure counts used by the platform.
 
 I replaced the original join approach with a revised method for assigning population data to the hexagonal cells. The correction improved the population exposure estimates for eight HHS-defined at-risk groups. This was a problem in the analytical foundation of the product, so resolving it mattered to the information the map communicated as well as to the data pipeline itself.
