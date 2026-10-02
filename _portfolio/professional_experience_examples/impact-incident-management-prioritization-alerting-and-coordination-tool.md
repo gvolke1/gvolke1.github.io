@@ -5,7 +5,15 @@ permalink: "/portfolio/professional_experience_examples/impact-incident-manageme
 author_profile: true
 excerpt: "Built recurring hazard-data workflows and corrected a Census-to-H3 assignment problem affecting population exposure estimates."
 project_employer: "New Light Technologies"
-skills: ["Front End Development", "Data Engineering and API Integration", "Databases and Data Quality", "GIS and Spatial Analysis", "Automation and Workflow Improvement", "Development Workflow and Collaboration", "Emergency Management and Public Safety Analytics", "Wed Development"]
+skills:
+  - "Front End Development"
+  - "Data Engineering and API Integration"
+  - "Databases and Data Quality"
+  - "GIS and Spatial Analysis"
+  - "Automation and Workflow Improvement"
+  - "Development Workflow and Collaboration"
+  - "Emergency Management and Public Safety Analytics"
+  - "Web Development"
 ---
 
 **Organization:** New Light Technologies  
