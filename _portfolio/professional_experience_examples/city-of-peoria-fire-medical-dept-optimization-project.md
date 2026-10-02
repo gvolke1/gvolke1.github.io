@@ -73,7 +73,7 @@ The platform uses web mapping technologies including React, MapLibre, deck.gl, a
 ## Cartography and Data Visualization
 I designed the visual system for the dashboard's analytical layers, including color ramps, layer symbology, hotspot markers, and map presentation choices. The blue sequential ramp communicates increasing call density without implying alarm, while separate symbols and supporting labels distinguish fire, ALS, BLS, and other hotspot categories.
 
-![Blue sequential color ramp used for Peoria unique-call density]({{ '/images/peoria_unique_calls_color_ramp.png' | relative_url }})
+<img src="{{ '/images/peoria_unique_calls_color_ramp.png' | relative_url }}" alt="Blue sequential color ramp used for Peoria unique-call density" style="max-width: 420px; width: 100%; height: auto;">
 
 I produced and reviewed maps for all-call demand, dispatch-unit volume, unique calls, fire calls, medical calls, top locations, fire and medical hotspots, temporal demand, and dashboard demonstrations. The goal was to make the maps readable at a glance while giving users enough context to interpret what each layer represents.
 
