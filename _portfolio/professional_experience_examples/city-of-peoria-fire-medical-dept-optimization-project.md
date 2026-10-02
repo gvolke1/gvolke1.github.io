@@ -17,9 +17,8 @@ skills:
 header:
   teaser: "peoria_landing_page.png"
 ---
- <!--when I have time, I want to review all the files I have on my role in Peoria thoroughly, and include more image breaks for better visuals here. Looking at things like "NLT Accomplishments", and "Peoria Fire Optimizer system overview, City of Peoria Firew Department optimization project, Peoria Project README, Peoria Plots & GIS Layer Information, etc.-->
-
- <!--## Tools and Skills to consider later
+ <!--when I have time, I want to review all the files I have on my role in Peoria thoroughly, and include more image breaks for better visuals here. Looking at things like "NLT Accomplishments", and "Peoria Fire Optimizer system overview, City of Peoria Firew Department optimization project, Peoria Project README, Peoria Plots & GIS Layer Information, etc.
+ Tools and Skills to consider later
 
 - Web GIS
 - React, MapLibre, and deck.gl
@@ -34,11 +33,23 @@ header:
 - Technical documentation
 - Quality assurance
 - Project coordination
--->
+ -->
 ![Peoria IMPACT FEMS Optimization Platform]({{ '/images/peoria_landing_page.png' | relative_url }})
 
 ## Project Overview
 The City of Peoria Fire-Medical Department Optimization Project is a data-driven decision-support platform for fire and EMS planning. The platform brings together Computer-Aided Dispatch (CAD) incident records, fire station and unit locations, road and infrastructure data, demographic context, and interactive geospatial analysis in one web-based dashboard.
+
+## Video Demonstration
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/wnCsVgRMriU"
+    title="Peoria Fire and EMS GIS project demonstration"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 The project helps users examine where and when demand occurs, understand response-time and coverage patterns, and explore how changes to station resources or deployment could affect service. Its map layers include unique-call density, dispatch-unit volume, fire and medical demand, hotspot locations, temporal patterns, travel-time analysis, and contextual infrastructure such as hospitals and train crossings. A simulation workflow and supporting charts provide a way to compare operational scenarios with a baseline configuration.
 
@@ -75,15 +86,5 @@ I wrote user-facing documentation explaining how to use the platform, what the c
 
 I also reviewed the symbology and descriptions for the map layers to confirm that their visual encoding matched the underlying data and intended message. Documenting the data sources, geocoding workflow, H3 aggregation, network analysis concepts, classification choices, and limitations helps users interpret results consistently and supports future maintenance of the platform.
 
-## Video Demonstration
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/wnCsVgRMriU"
-    title="Peoria Fire and EMS GIS project demonstration"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+
 
