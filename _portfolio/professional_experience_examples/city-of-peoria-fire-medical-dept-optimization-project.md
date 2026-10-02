@@ -17,7 +17,8 @@ skills:
 header:
   teaser: "peoria_landing_page.png"
 ---
- <!--when I have time, I want to review all the files I have on my role in Peoria thoroughly, and include more image breaks for better visuals here. Looking at things like "NLT Accomplishments", and "Peoria Fire Optimizer system overview, City of Peoria Firew Department optimization project, Peoria Project README, Peoria Plots & GIS Layer Information, etc.
+{% comment %}
+when I have time, I want to review all the files I have on my role in Peoria thoroughly, and include more image breaks for better visuals here. Looking at things like "NLT Accomplishments", and "Peoria Fire Optimizer system overview, City of Peoria Firew Department optimization project, Peoria Project README, Peoria Plots & GIS Layer Information, etc.
  Tools and Skills to consider later
 
 - Web GIS
@@ -33,7 +34,7 @@ header:
 - Technical documentation
 - Quality assurance
 - Project coordination
- -->
+{% endcomment %}
 ![Peoria IMPACT FEMS Optimization Platform]({{ '/images/peoria_landing_page.png' | relative_url }})
 
 ## Project Overview
