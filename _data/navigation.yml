@@ -7,11 +7,11 @@ main:
   - title: "Professional Experience"
     url: /professional-experience/
 
-  - title: "Education"
-    url: /education/
-    
   - title: "Research"
     url: /research/
+
+  - title: "Education"
+    url: /education/
 
   - title: "Media"
     url: /media/
